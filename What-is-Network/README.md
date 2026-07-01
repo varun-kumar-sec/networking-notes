@@ -55,7 +55,7 @@ These devices communicate using standardized networking protocols such as TCP/IP
 
 ## 📷 Diagram
 
-![screenshot]{}
+![screenshot]()
 
 ---
 
