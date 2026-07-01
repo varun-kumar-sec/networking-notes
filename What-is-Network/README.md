@@ -1,5 +1,4 @@
 # 🌐 What is a Network?
-
 # 📖 Overview
 
 A **computer network** is a collection of two or more devices connected together to exchange data and share resources. Networks enable communication between computers, servers, smartphones, printers, IoT devices, and many other systems.
