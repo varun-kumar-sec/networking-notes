@@ -55,7 +55,7 @@ These devices communicate using standardized networking protocols such as TCP/IP
 
 ## 📷 Diagram
 
-![Network]()
+![Network](https://github.com/varun-kumar-sec/networking-notes/blob/main/What-is-Network/images/Network.jpg?raw=true)
 
 ---
 
@@ -212,7 +212,7 @@ University Network
 
 ## 📷 Diagram
 
-![types-of-network]()
+![types-of-network](https://github.com/varun-kumar-sec/networking-notes/blob/main/What-is-Network/images/Types-of-network.png?raw=true)
 
 ---
 
@@ -250,7 +250,7 @@ Each computer can act as both:
 
 ## 📷 Diagram
 
-![peer-to-peer]()
+![peer-to-peer](https://github.com/varun-kumar-sec/networking-notes/blob/main/What-is-Network/images/Peer-to-Peer.jpg?raw=true)
 
 ---
 
@@ -284,7 +284,7 @@ Clients request resources while servers respond.
 
 ## 📷 Diagram
 
-![client-server]()
+![client-server](https://github.com/varun-kumar-sec/networking-notes/blob/main/What-is-Network/images/client-server.png?raw=true)
 
 ---
 
