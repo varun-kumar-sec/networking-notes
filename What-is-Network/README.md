@@ -218,9 +218,7 @@ University Network
 
 # 🖥️ Broad Categories of Networks
 
----
-
-# Peer-to-Peer (P2P) Network
+## Peer-to-Peer (P2P) Network
 
 A Peer-to-Peer network allows computers to communicate directly with one another without a dedicated server.
 
@@ -254,7 +252,7 @@ Each computer can act as both:
 
 ---
 
-# Client-Server Network
+## Client-Server Network
 
 In a Client-Server model, dedicated servers provide services to client computers.
 
