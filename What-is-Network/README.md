@@ -55,15 +55,7 @@ These devices communicate using standardized networking protocols such as TCP/IP
 
 ## 📷 Diagram
 
-Download and save as:
-
-```
-images/network-overview.png
-```
-
-Recommended diagram:
-
-https://commons.wikimedia.org/wiki/File:NetworkTopologies.svg
+![screenshot]{}
 
 ---
 
