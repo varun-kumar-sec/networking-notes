@@ -120,3 +120,326 @@ Responsibilities include:
 # 🌐 Types of Networks
 
 Computer networks are classified according to their geographical coverage.
+
+# 1️⃣ Local Area Network (LAN)
+
+A **Local Area Network (LAN)** connects devices within a small geographical area such as:
+
+- Home
+- Office
+- School
+- Building
+
+### Characteristics
+
+- High speed
+- Low latency
+- Privately managed
+- Cost-effective
+
+### Advantages
+
+- Fast communication
+- Easy file sharing
+- Printer sharing
+- Easy administration
+
+### Disadvantages
+
+- Limited coverage
+- Hardware dependency
+
+### Example
+
+Office Network
+
+---
+
+# 2️⃣ Metropolitan Area Network (MAN)
+
+A **MAN** connects multiple LANs across a city.
+
+### Characteristics
+
+- Covers several kilometers
+- High-speed backbone
+- Managed by organizations or ISPs
+
+### Example
+
+City-wide university campuses
+
+---
+
+# 3️⃣ Wide Area Network (WAN)
+
+A **WAN** connects networks across countries or continents.
+
+### Characteristics
+
+- Very large coverage
+- Uses leased communication links
+- Higher latency than LAN
+
+### Example
+
+The Internet
+
+---
+
+# 4️⃣ Personal Area Network (PAN)
+
+A **PAN** connects devices around a single individual.
+
+### Examples
+
+- Bluetooth
+- Smartwatch
+- Wireless Earbuds
+- Mobile Hotspot
+
+---
+
+# 5️⃣ Campus Area Network (CAN)
+
+A **Campus Area Network (CAN)** connects multiple LANs inside a university, military campus, or corporate campus.
+
+### Example
+
+University Network
+
+---
+
+## 📷 Diagram
+
+Download and save as:
+
+```
+images/network-types.png
+```
+
+Recommended diagram:
+
+https://www.cloudflare.com/learning/network-layer/what-is-a-computer-network/
+
+# 🖥️ Broad Categories of Networks
+
+---
+
+# Peer-to-Peer (P2P) Network
+
+A Peer-to-Peer network allows computers to communicate directly with one another without a dedicated server.
+
+Each computer can act as both:
+
+- Client
+- Server
+
+### Advantages
+
+- Easy to set up
+- Low cost
+- No dedicated server required
+
+### Disadvantages
+
+- Weak security
+- Difficult management
+- Poor scalability
+
+### Common Uses
+
+- Home networks
+- Small offices
+
+---
+
+## 📷 Diagram
+
+Download:
+
+```
+images/peer-to-peer-network.png
+```
+
+Recommended diagram:
+
+https://commons.wikimedia.org/wiki/File:Peer-To-Peer-Network.svg
+
+---
+
+# Client-Server Network
+
+In a Client-Server model, dedicated servers provide services to client computers.
+
+Clients request resources while servers respond.
+
+### Advantages
+
+- Better security
+- Centralized management
+- Easy backup
+- Highly scalable
+
+### Disadvantages
+
+- Expensive
+- Requires dedicated servers
+- Requires administrators
+
+### Common Uses
+
+- Banks
+- Universities
+- Enterprises
+- Cloud Services
+
+---
+
+## 📷 Diagram
+
+Download:
+
+```
+images/client-server-network.png
+```
+
+Recommended diagram:
+
+https://commons.wikimedia.org/wiki/File:Client-server-model.svg
+
+# 🚀 Benefits of Networking
+
+---
+
+## 📂 File Sharing
+
+Users can exchange files quickly without external storage devices.
+
+Example:
+
+Employees accessing shared project documents.
+
+---
+
+## 🖨️ Resource Sharing
+
+Multiple users can share hardware resources.
+
+Examples:
+
+- Printers
+- Scanners
+- Storage Servers
+
+---
+
+## 🌍 Internet Sharing
+
+A single internet connection can be shared among multiple devices.
+
+Example:
+
+Office Router
+
+↓
+
+Switch
+
+↓
+
+Employee Computers
+
+---
+
+## 📷 Diagram
+
+Download:
+
+```
+images/network-benefits.png
+```
+
+Recommended diagram:
+
+https://www.cloudflare.com/learning/network-layer/what-is-a-computer-network/
+
+# 🏢 Real-World Example
+
+A small office network consists of:
+
+```
+PC 1
+      \
+PC 2 ---- Switch ---- Router ---- ISP ---- Internet
+      /
+PC 3
+```
+
+Every computer can:
+
+- Share files
+- Print documents
+- Access the internet
+- Communicate securely
+
+---
+
+# 🔒 Security Perspective
+
+Networking forms the foundation of cybersecurity.
+
+Almost every cyberattack involves a network in some way.
+
+Examples include:
+
+- ARP Spoofing
+- Man-in-the-Middle (MITM)
+- Packet Sniffing
+- Rogue DHCP Servers
+- DNS Spoofing
+- Unauthorized Resource Access
+
+Understanding networking helps security professionals identify, analyze, and defend against these attacks.
+
+---
+
+# 🎤 Interview Questions
+
+### Beginner
+
+- What is a network?
+- What is networking?
+- Difference between LAN and WAN?
+- Difference between MAN and CAN?
+- What is PAN?
+
+### Intermediate
+
+- Difference between Peer-to-Peer and Client-Server?
+- Why do enterprises prefer Client-Server architecture?
+- Explain the advantages of LAN.
+- Which network covers the largest geographical area?
+
+---
+
+# 📌 Key Takeaways
+
+- A network connects multiple devices for communication and resource sharing.
+- Networking is the process of building and maintaining networks.
+- A networker is responsible for managing network infrastructure.
+- Networks are categorized into LAN, MAN, WAN, PAN, and CAN.
+- Networks are commonly organized as either Peer-to-Peer or Client-Server.
+- Networking enables file sharing, resource sharing, and internet sharing.
+- Networking knowledge is fundamental for cybersecurity professionals.
+
+---
+
+# 📚 References
+
+- Cisco Networking Academy
+- CompTIA Network+
+- Cloudflare Learning Center
+- Microsoft Learn
+- RFC 791 (Internet Protocol)
+- RFC 1122 (Internet Host Requirements)
