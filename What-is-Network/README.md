@@ -1,9 +1,5 @@
 # 🌐 What is a Network?
 
-> **Difficulty:** Beginner  
-> **Prerequisites:** None  
-> **Estimated Reading Time:** 10–15 Minutes
-
 ---
 
 # 📖 Overview
