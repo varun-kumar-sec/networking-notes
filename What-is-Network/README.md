@@ -288,8 +288,6 @@ Clients request resources while servers respond.
 
 # 🚀 Benefits of Networking
 
----
-
 ## 📂 File Sharing
 
 Users can exchange files quickly without external storage devices.
