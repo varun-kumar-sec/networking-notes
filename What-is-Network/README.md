@@ -352,18 +352,6 @@ Employee Computers
 
 ---
 
-## 📷 Diagram
-
-Download:
-
-```
-images/network-benefits.png
-```
-
-Recommended diagram:
-
-https://www.cloudflare.com/learning/network-layer/what-is-a-computer-network/
-
 # 🏢 Real-World Example
 
 A small office network consists of:
