@@ -55,7 +55,7 @@ These devices communicate using standardized networking protocols such as TCP/IP
 
 ## 📷 Diagram
 
-![screenshot]()
+![Network]()
 
 ---
 
@@ -212,15 +212,9 @@ University Network
 
 ## 📷 Diagram
 
-Download and save as:
+![types-of-network]()
 
-```
-images/network-types.png
-```
-
-Recommended diagram:
-
-https://www.cloudflare.com/learning/network-layer/what-is-a-computer-network/
+---
 
 # 🖥️ Broad Categories of Networks
 
@@ -256,15 +250,7 @@ Each computer can act as both:
 
 ## 📷 Diagram
 
-Download:
-
-```
-images/peer-to-peer-network.png
-```
-
-Recommended diagram:
-
-https://commons.wikimedia.org/wiki/File:Peer-To-Peer-Network.svg
+![peer-to-peer]()
 
 ---
 
@@ -298,15 +284,9 @@ Clients request resources while servers respond.
 
 ## 📷 Diagram
 
-Download:
+![client-server]()
 
-```
-images/client-server-network.png
-```
-
-Recommended diagram:
-
-https://commons.wikimedia.org/wiki/File:Client-server-model.svg
+---
 
 # 🚀 Benefits of Networking
 
