@@ -193,14 +193,7 @@ If a gateway is compromised, an attacker may gain access to internal network res
 
 Save as:
 
-```
-images/gateway-working.png
-```
-
-Recommended diagrams:
-
-- https://en.wikipedia.org/wiki/Gateway_(telecommunications)
-- https://commons.wikimedia.org/wiki/Category:Network_gateways
+![Gateway](https://github.com/varun-kumar-sec/networking-notes/blob/main/Networking%20Devices/Types%20of%20Network%20Devices/Gateway/image/Gateway.png?raw=true)
 
 ---
 
