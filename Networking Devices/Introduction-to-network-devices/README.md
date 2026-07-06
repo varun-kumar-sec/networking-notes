@@ -56,15 +56,7 @@ Examples include:
 
 ## 📷 Diagram
 
-Download and save as:
-
-```
-images/network-devices-overview.png
-```
-
-Recommended image:
-
-https://commons.wikimedia.org/wiki/File:NetworkTopologies.svg
+![Networking_Devices](https://github.com/varun-kumar-sec/networking-notes/blob/main/Networking%20Devices/Introduction-to-network-devices/images/Networking_Devices.png?raw=true)
 
 ---
 
