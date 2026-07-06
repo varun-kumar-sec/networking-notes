@@ -122,7 +122,6 @@ Common LAN devices include:
 
 ## 📷 Diagram
 
-Download and save as:
 
 ![LAN-Devices](https://github.com/varun-kumar-sec/networking-notes/blob/main/Networking%20Devices/Introduction-to-network-devices/images/LAN-Devices.png?raw=true)
 
@@ -152,7 +151,6 @@ These devices enable communication between different networks and provide access
 
 ## 📷 Diagram
 
-Download and save as:
 
 ![WAN-Devices](https://github.com/varun-kumar-sec/networking-notes/blob/main/Networking%20Devices/Introduction-to-network-devices/images/WAN-devices.png?raw=true)
 
