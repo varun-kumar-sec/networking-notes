@@ -1,11 +1,4 @@
 # Hub
-
-> **Difficulty:** Beginner  
-> **Prerequisites:** Repeater  
-> **Estimated Reading Time:** 10–12 Minutes
-
----
-
 # 📖 Overview
 
 A **Hub** is a basic networking device that connects multiple computers within a Local Area Network (LAN). It receives data from one connected device and broadcasts that data to **every device** connected to the hub, regardless of the intended recipient.
