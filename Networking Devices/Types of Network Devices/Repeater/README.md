@@ -156,16 +156,7 @@ Network security must therefore be implemented by higher-layer devices such as s
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/repeater-working.png
-```
-
-Recommended diagrams:
-
-- https://commons.wikimedia.org/wiki/File:Ethernet_repeater.svg
-- https://en.wikipedia.org/wiki/Repeater
+![Reapeater](https://github.com/varun-kumar-sec/networking-notes/blob/main/Networking%20Devices/Types%20of%20Network%20Devices/Repeater/image/Repeater.jpg?raw=true)
 
 ---
 
