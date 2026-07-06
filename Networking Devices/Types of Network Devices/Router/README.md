@@ -227,16 +227,7 @@ Proper configuration and regular firmware updates are essential to securing rout
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/router-working.png
-```
-
-Recommended diagrams:
-
-- https://commons.wikimedia.org/wiki/File:Router_architecture.svg
-- https://en.wikipedia.org/wiki/Router_(computing)
+![Router](https://github.com/varun-kumar-sec/networking-notes/blob/main/Networking%20Devices/Types%20of%20Network%20Devices/Router/image/Router.jpg?raw=true)
 
 ---
 
