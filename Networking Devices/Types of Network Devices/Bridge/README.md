@@ -225,16 +225,7 @@ Security still relies on higher-layer devices such as switches, routers, and fir
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/bridge-working.png
-```
-
-Recommended diagrams:
-
-- https://commons.wikimedia.org/wiki/File:Network_bridge.svg
-- https://en.wikipedia.org/wiki/Network_bridge
+![Bridge](https://github.com/varun-kumar-sec/networking-notes/blob/main/Networking%20Devices/Types%20of%20Network%20Devices/Bridge/image/Bridge.png?raw=true)
 
 ---
 
