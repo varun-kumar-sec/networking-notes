@@ -225,16 +225,7 @@ For this reason, hubs are no longer recommended in production environments.
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/hub-working.png
-```
-
-Recommended diagrams:
-
-- https://commons.wikimedia.org/wiki/File:Ethernet_hub.svg
-- https://en.wikipedia.org/wiki/Ethernet_hub
+![HUB](https://github.com/varun-kumar-sec/networking-notes/blob/main/Networking%20Devices/Types%20of%20Network%20Devices/HUB/image/HUB.jpg?raw=true)
 
 ---
 
