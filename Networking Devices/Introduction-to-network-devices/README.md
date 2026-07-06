@@ -154,13 +154,7 @@ These devices enable communication between different networks and provide access
 
 Download and save as:
 
-```
-images/wan-devices.png
-```
-
-Recommended image:
-
-https://www.cloudflare.com/learning/network-layer/what-is-a-computer-network/
+![WAN-Devices](https://github.com/varun-kumar-sec/networking-notes/blob/main/Networking%20Devices/Introduction-to-network-devices/images/WAN-devices.png?raw=true)
 
 ---
 
