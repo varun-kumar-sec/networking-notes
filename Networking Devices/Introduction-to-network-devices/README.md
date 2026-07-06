@@ -124,13 +124,7 @@ Common LAN devices include:
 
 Download and save as:
 
-```
-images/lan-devices.png
-```
-
-Recommended image:
-
-https://www.cloudflare.com/learning/network-layer/what-is-a-computer-network/
+![LAN-Devices](https://github.com/varun-kumar-sec/networking-notes/blob/main/Networking%20Devices/Introduction-to-network-devices/images/LAN-Devices.png?raw=true)
 
 ---
 
