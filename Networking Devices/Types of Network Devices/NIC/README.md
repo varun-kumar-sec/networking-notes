@@ -217,16 +217,7 @@ Network administrators often use MAC filtering and Network Access Control (NAC) 
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/network-interface-card.png
-```
-
-Recommended diagrams:
-
-- https://commons.wikimedia.org/wiki/File:Ethernet_NIC.jpg
-- https://en.wikipedia.org/wiki/Network_interface_controller
+![NIC](https://github.com/varun-kumar-sec/networking-notes/blob/main/Networking%20Devices/Types%20of%20Network%20Devices/NIC/image/NIC_Card.jpeg?raw=true)
 
 ---
 
