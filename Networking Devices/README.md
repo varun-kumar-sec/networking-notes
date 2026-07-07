@@ -118,22 +118,9 @@ A solid understanding of networking devices helps security professionals identif
 
 ---
 
-# 📷 Suggested Diagrams
+# 📷 Diagram
 
-You can add one overview diagram here.
-
-Recommended sources:
-
-- https://commons.wikimedia.org/wiki/Category:Computer_network_diagrams
-- https://en.wikipedia.org/wiki/Computer_network
-
-Suggested filename:
-
-```
-
-images/network-devices-overview.png
-
-```
+![Network-devices](https://github.com/varun-kumar-sec/networking-notes/blob/main/Networking%20Devices/Introduction-to-network-devices/images/Networking_Devices.png?raw=true)
 
 ---
 
