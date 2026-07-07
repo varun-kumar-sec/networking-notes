@@ -179,16 +179,7 @@ Twisted Pair Cables are used in:
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/twisted-pair-cable.png
-```
-
-Recommended diagrams:
-
-- https://commons.wikimedia.org/wiki/File:UTP_cable.jpg
-- https://en.wikipedia.org/wiki/Twisted_pair
+![Twisted-Pair-cable](https://github.com/varun-kumar-sec/networking-notes/blob/main/Transmission%20Media/Guided%20Transmission%20Media/Twisted%20Pair%20Cable/image/Twisted-pair-cable.jpg?raw=true)
 
 ---
 
