@@ -218,16 +218,7 @@ Since modems connect directly to the ISP, keeping firmware updated is important 
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/modem-working.png
-```
-
-Recommended diagrams:
-
-- https://commons.wikimedia.org/wiki/File:Modem.svg
-- https://en.wikipedia.org/wiki/Modem
+![Modem](https://github.com/varun-kumar-sec/networking-notes/blob/main/Networking%20Devices/Types%20of%20Network%20Devices/Modem/image/Modem.png?raw=true)
 
 ---
 
