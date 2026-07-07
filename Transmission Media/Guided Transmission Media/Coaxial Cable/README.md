@@ -136,16 +136,7 @@ Coaxial cables are widely used for:
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/coaxial-cable-structure.png
-```
-
-Recommended diagrams:
-
-- https://commons.wikimedia.org/wiki/File:Coaxial_cable_cutaway.svg
-- https://en.wikipedia.org/wiki/Coaxial_cable
+![Coaxial-Cable](https://github.com/varun-kumar-sec/networking-notes/blob/main/Transmission%20Media/Guided%20Transmission%20Media/Coaxial%20Cable/image/Coaxial-Cable.png?raw=true)
 
 ---
 
