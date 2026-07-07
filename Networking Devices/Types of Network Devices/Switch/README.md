@@ -257,16 +257,7 @@ are commonly used to secure modern switches.
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/switch-working.png
-```
-
-Recommended diagrams:
-
-- https://commons.wikimedia.org/wiki/File:Ethernet_switch.svg
-- https://en.wikipedia.org/wiki/Network_switch
+![Switch](https://github.com/varun-kumar-sec/networking-notes/blob/main/Networking%20Devices/Types%20of%20Network%20Devices/Switch/image/Switch.png?raw=true)
 
 ---
 
