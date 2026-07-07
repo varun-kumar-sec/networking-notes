@@ -166,16 +166,7 @@ Fiber optic cables are widely used in:
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/fiber-optic-cable-structure.png
-```
-
-Recommended diagrams:
-
-- https://commons.wikimedia.org/wiki/File:Fiber_optic.svg
-- https://en.wikipedia.org/wiki/Optical_fiber
+![Optic-fibre-cable](https://github.com/varun-kumar-sec/networking-notes/blob/main/Transmission%20Media/Guided%20Transmission%20Media/Fibre%20Optic%20Cable/image/Optic-fibre-cable.jpg?raw=true)
 
 ---
 
