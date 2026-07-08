@@ -121,16 +121,7 @@ LAN is commonly used in:
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/lan-overview.png
-```
-
-Recommended diagrams:
-
-- https://commons.wikimedia.org/wiki/File:LAN_diagram.svg
-- https://en.wikipedia.org/wiki/Local_area_network
+![LAN-Network-Overview](https://github.com/varun-kumar-sec/networking-notes/blob/main/What%20is%20LAN%20Basics/What%20is%20LAN/image/LAN-Network-Overview.png?raw=true)
 
 ---
 
