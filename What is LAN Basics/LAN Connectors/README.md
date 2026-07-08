@@ -100,24 +100,6 @@ Using the correct connector ensures optimal network performance and compatibilit
 
 ---
 
-# 📷 Recommended Diagrams
-
-Store diagrams inside:
-
-```
-LAN Connectors/images/
-```
-
-Suggested diagrams:
-
-- LAN Connectors Overview
-- RJ45 vs RJ11 Comparison
-- BNC Connector Structure
-- Fiber Optic Connector Types
-- Common Network Connectors
-
----
-
 # 📚 References
 
 - Cisco Networking Academy (NetAcad)
