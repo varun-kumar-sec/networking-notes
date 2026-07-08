@@ -232,16 +232,7 @@ Common methods include:
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/basic-lan-setup.png
-```
-
-Recommended diagrams:
-
-- https://commons.wikimedia.org/wiki/File:LAN_diagram.svg
-- https://en.wikipedia.org/wiki/Local_area_network
+![How-to-Setup-LAN](https://github.com/varun-kumar-sec/networking-notes/blob/main/What%20is%20LAN%20Basics/How%20to%20Setup%20a%20LAN/image/How-to-Setup-LAN.png?raw=true)
 
 ---
 
