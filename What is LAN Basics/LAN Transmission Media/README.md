@@ -163,16 +163,7 @@ For example:
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/lan-transmission-media.png
-```
-
-Recommended diagrams:
-
-- https://commons.wikimedia.org/wiki/File:Transmission_media.svg
-- https://en.wikipedia.org/wiki/Transmission_medium
+![Transmission-media-overview](https://github.com/varun-kumar-sec/networking-notes/blob/main/What%20is%20LAN%20Basics/LAN%20Transmission%20Media/image/Transmission-media-overview.png?raw=true)
 
 ---
 
