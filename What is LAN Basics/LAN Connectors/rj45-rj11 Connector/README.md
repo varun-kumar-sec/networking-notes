@@ -146,16 +146,7 @@ Used in:
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/rj45-rj11-comparison.png
-```
-
-Recommended diagrams:
-
-- https://commons.wikimedia.org/wiki/File:RJ11_and_RJ45_connectors.jpg
-- https://en.wikipedia.org/wiki/Modular_connector
+![Rj45 and Rj11](https://github.com/varun-kumar-sec/networking-notes/blob/main/What%20is%20LAN%20Basics/LAN%20Connectors/rj45-rj11%20Connector/image/RJ11%20and%20RJ45.jpg?raw=true)
 
 ---
 
