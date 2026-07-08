@@ -105,21 +105,9 @@ This knowledge serves as the foundation for advanced networking topics such as:
 
 ---
 
-# 📷 Recommended Diagrams
+# 📷 Diagram
 
-Store diagrams inside:
-
-```
-Transmission Media/images/
-```
-
-Suggested diagrams:
-
-- Transmission Media Overview
-- Guided vs Unguided Transmission Media
-- Twisted Pair Cable Structure
-- Coaxial Cable Structure
-- Fiber Optic Cable Structure
+![Transmission-media](https://github.com/varun-kumar-sec/networking-notes/blob/main/Transmission%20Media/image/Transmission-media-overview.jpeg?raw=true)
 
 ---
 
