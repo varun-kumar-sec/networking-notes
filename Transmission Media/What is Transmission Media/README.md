@@ -164,16 +164,7 @@ Every computer network relies on some form of transmission media.
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/transmission-media-overview.png
-```
-
-Recommended diagrams:
-
-- https://commons.wikimedia.org/wiki/Category:Computer_network_diagrams
-- https://en.wikipedia.org/wiki/Transmission_medium
+1[transmission-media-overview](https://github.com/varun-kumar-sec/networking-notes/blob/main/Transmission%20Media/image/Transmission-media-overview.jpeg?raw=true)
 
 ---
 
