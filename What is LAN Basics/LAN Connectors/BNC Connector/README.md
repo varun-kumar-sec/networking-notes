@@ -132,16 +132,7 @@ BNC connectors are commonly used in:
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/bnc-connector.png
-```
-
-Recommended diagrams:
-
-- https://commons.wikimedia.org/wiki/File:BNC_connector.jpg
-- https://en.wikipedia.org/wiki/BNC_connector
+![BNC-Connector](https://github.com/varun-kumar-sec/networking-notes/blob/main/What%20is%20LAN%20Basics/LAN%20Connectors/BNC%20Connector/image/BNC-Connectors.png?raw=true)
 
 ---
 
