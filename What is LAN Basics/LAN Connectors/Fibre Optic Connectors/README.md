@@ -191,16 +191,7 @@ Fiber Optic Connectors are used in:
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/fiber-optic-connectors.png
-```
-
-Recommended diagrams:
-
-- https://commons.wikimedia.org/wiki/File:Fiber_optic_connectors.jpg
-- https://en.wikipedia.org/wiki/Optical_fiber_connector
+![Optic-Fibre-Connectors](https://github.com/varun-kumar-sec/networking-notes/blob/main/What%20is%20LAN%20Basics/LAN%20Connectors/Fibre%20Optic%20Connectors/image/optic-fibre-connectors.png?raw=true)
 
 ---
 
