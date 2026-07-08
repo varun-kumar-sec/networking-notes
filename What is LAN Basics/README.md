@@ -100,21 +100,9 @@ This knowledge provides the foundation for advanced networking topics, including
 
 ---
 
-# 📷 Recommended Diagrams
+# 📷 Diagram
 
-Store diagrams inside:
-
-```
-What is LAN Basics/images/
-```
-
-Suggested diagrams:
-
-- Basic LAN Architecture
-- Wired LAN Overview
-- LAN Transmission Media
-- Common LAN Connectors
-- LAN Setup Example
+![LAN-Basics](https://github.com/varun-kumar-sec/networking-notes/blob/main/What%20is%20LAN%20Basics/image/LAN-Basics.png?raw=true)
 
 ---
 
