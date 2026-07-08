@@ -174,16 +174,7 @@ Guided Transmission Media is widely used in:
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/guided-transmission-media.png
-```
-
-Recommended diagrams:
-
-- https://commons.wikimedia.org/wiki/Category:Computer_network_diagrams
-- https://en.wikipedia.org/wiki/Transmission_medium
+![Guided-Transmission-media](https://github.com/varun-kumar-sec/networking-notes/blob/main/Transmission%20Media/Guided%20Transmission%20Media/What%20is%20Guided%20Media/image/Guided-Transmission-media.jpg?raw=true)
 
 ---
 
