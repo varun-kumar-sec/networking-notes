@@ -107,22 +107,7 @@ Crimping tools are commonly used in:
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/crimping-tool.png
-```
-
-Recommended diagrams:
-
-- RJ45 Crimping Tool
-- Parts of a Crimping Tool
-- Ethernet Cable Crimping Process
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Crimping_tools
-- https://en.wikipedia.org/wiki/Crimp_(joining)
+![Crimping-Tool](https://github.com/varun-kumar-sec/networking-notes/blob/main/Structure%20Cabling/Networking%20Cabling%20tools/Crimping%20Tool/image/Crimping-Tool.png?raw=true)
 
 ---
 
