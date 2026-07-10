@@ -129,23 +129,7 @@ Straight-through cables are widely used in:
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/straight-through-cable-uses.png
-```
-
-Recommended diagrams:
-
-- Computer to Switch
-- Router to Switch
-- Router to Modem
-- Basic LAN using Straight-through Cables
-
-Suggested sources:
-
-- https://en.wikipedia.org/wiki/Ethernet_crossover_cable
-- https://commons.wikimedia.org/wiki/Category:Ethernet
+![Straight-Trough-cable-usage](https://github.com/varun-kumar-sec/networking-notes/blob/main/Structure%20Cabling/Ethernet%20Cable%20Wiring%20Standards/Uses%20of%20Straight%20Through%20cable/image/Straight-Through-Cable-usage.png?raw=true)
 
 ---
 
