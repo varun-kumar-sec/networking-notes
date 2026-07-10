@@ -85,23 +85,6 @@ Network cabling tools are commonly used in:
 
 ---
 
-# 📷 Recommended Diagrams
-
-Store diagrams inside:
-
-```
-Network Cabling Tools/images/
-```
-
-Suggested diagrams:
-
-- Cable Stripper
-- Crimping Tool
-- Ethernet Cable Preparation Process
-- RJ45 Connector Installation
-
----
-
 # 📚 References
 
 - Cisco Networking Academy (NetAcad)
