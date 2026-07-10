@@ -109,16 +109,7 @@ Structured Cabling is commonly used in:
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/structured-cabling-overview.png
-```
-
-Recommended diagrams:
-
-- https://commons.wikimedia.org/wiki/Category:Structured_cabling
-- https://en.wikipedia.org/wiki/Structured_cabling
+![Structure-Cabling-Overview](https://github.com/varun-kumar-sec/networking-notes/blob/main/Structure%20Cabling/What%20is%20Structure%20Cabling/image/Strucutred-Cabling-Overview.jpg?raw=true)
 
 ---
 
