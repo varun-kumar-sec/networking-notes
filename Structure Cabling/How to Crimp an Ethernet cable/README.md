@@ -154,22 +154,7 @@ A successful test confirms the cable is ready for use.
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/how-to-crimp-an-ethernet-cable.png
-```
-
-Recommended diagrams:
-
-- Ethernet cable crimping steps
-- RJ45 connector pin arrangement
-- Cable stripping and crimping process
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Ethernet_cables
-- https://en.wikipedia.org/wiki/Modular_connector
+![How-to-Crimp-Ethernet-cable](https://github.com/varun-kumar-sec/networking-notes/blob/main/Structure%20Cabling/How%20to%20Crimp%20an%20Ethernet%20cable/image/How-to-Crimp-tool.jpg?raw=true)
 
 ---
 
