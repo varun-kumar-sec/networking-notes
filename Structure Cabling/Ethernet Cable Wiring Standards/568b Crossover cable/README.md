@@ -109,21 +109,7 @@ These are the most commonly used Ethernet cables in homes, offices, and enterpri
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/t568b-wiring-standard.png
-```
-
-Recommended diagrams:
-
-- RJ45 T568B pinout
-- T568B wire color sequence
-
-Suggested sources:
-
-- https://en.wikipedia.org/wiki/TIA/EIA-568
-- https://commons.wikimedia.org/wiki/Category:Ethernet
+![568b-Wiring](https://github.com/varun-kumar-sec/networking-notes/blob/main/Structure%20Cabling/Ethernet%20Cable%20Wiring%20Standards/568b%20Crossover%20cable/image/T568B-Wiring.jpg?raw=true)
 
 ---
 
