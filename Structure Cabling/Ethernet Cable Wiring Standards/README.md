@@ -128,24 +128,6 @@ Ethernet wiring standards are used in:
 
 ---
 
-# 📷 Recommended Diagrams
-
-Store diagrams inside:
-
-```
-Ethernet Cable Wiring Standards/images/
-```
-
-Suggested diagrams:
-
-- T568A Pinout
-- T568B Pinout
-- Straight-through Cable
-- Crossover Cable
-- RJ45 Connector Pin Diagram
-
----
-
 # 🧠 Skills Gained
 
 After completing this module, you will be able to:
