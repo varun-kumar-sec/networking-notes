@@ -99,27 +99,6 @@ This knowledge forms the foundation for:
 
 ---
 
-# 📷 Recommended Diagrams
-
-Store diagrams inside:
-
-```
-Structured Cabling/images/
-```
-
-Suggested diagrams:
-
-- Structured Cabling Overview
-- T568A Wiring Standard
-- T568B Wiring Standard
-- Straight-through Cable
-- Crossover Cable
-- Cable Stripper
-- Crimping Tool
-- Ethernet Cable Crimping Steps
-
----
-
 # 📚 References
 
 - Cisco Networking Academy (NetAcad)
