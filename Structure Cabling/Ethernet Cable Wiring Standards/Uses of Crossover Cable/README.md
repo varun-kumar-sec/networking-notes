@@ -120,22 +120,7 @@ As a result:
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/crossover-cable-uses.png
-```
-
-Recommended diagrams:
-
-- Computer to Computer using Crossover Cable
-- Switch to Switch using Crossover Cable
-- Auto MDI-X illustration
-
-Suggested sources:
-
-- https://en.wikipedia.org/wiki/Ethernet_crossover_cable
-- https://commons.wikimedia.org/wiki/Category:Ethernet
+![Crossover-cable-usage](https://github.com/varun-kumar-sec/networking-notes/blob/main/Structure%20Cabling/Ethernet%20Cable%20Wiring%20Standards/Uses%20of%20Crossover%20Cable/image/Crossover%20cable%20usage.png?raw=true)
 
 ---
 
