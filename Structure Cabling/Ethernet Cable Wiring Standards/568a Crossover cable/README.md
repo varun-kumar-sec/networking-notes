@@ -103,21 +103,7 @@ Crossover cables are traditionally used to connect similar devices directly, suc
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/t568a-wiring-standard.png
-```
-
-Recommended diagrams:
-
-- RJ45 T568A pinout
-- T568A wire color sequence
-
-Suggested sources:
-
-- https://en.wikipedia.org/wiki/TIA/EIA-568
-- https://commons.wikimedia.org/wiki/Category:Ethernet
+![568a-Wiring](https://github.com/varun-kumar-sec/networking-notes/blob/main/Structure%20Cabling/Ethernet%20Cable%20Wiring%20Standards/568a%20Crossover%20cable/image/T568A-Wiring.jpg?raw=true)
 
 ---
 
