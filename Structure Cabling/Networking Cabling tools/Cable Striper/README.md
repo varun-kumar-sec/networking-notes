@@ -104,21 +104,7 @@ Cable Strippers are commonly used in:
 
 # 📷 Diagram
 
-Save as:
-
-```
-images/cable-stripper.png
-```
-
-Recommended diagrams:
-
-- Cable Stripper Tool
-- Ethernet Cable Stripping Process
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Cable_tools
-- https://en.wikipedia.org/wiki/Wire_stripper
+![Cable-Stripper](https://github.com/varun-kumar-sec/networking-notes/blob/main/Structure%20Cabling/Networking%20Cabling%20tools/Cable%20Striper/image/Cable-Striper.jpg?raw=true)
 
 ---
 
