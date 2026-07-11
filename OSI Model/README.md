@@ -100,30 +100,10 @@ After completing this module, you will be able to:
 - Understand how data is encapsulated and decapsulated.
 - Analyze network communication step by step.
 - Build a strong foundation for advanced networking topics.
+  
 
 ---
 
-# 📷 Recommended Diagrams
-
-Store diagrams inside:
-
-```text
-OSI Model/images/
-```
-
-Suggested diagrams:
-
-- OSI Model Overview
-- Physical Layer
-- Data Link Layer
-- Network Layer
-- Transport Layer
-- Session Layer
-- Presentation Layer
-- Application Layer
-- Data Encapsulation
-
----
 
 # 📚 References
 
