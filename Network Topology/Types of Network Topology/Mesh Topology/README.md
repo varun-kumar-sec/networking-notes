@@ -125,21 +125,7 @@ Mesh Topology is commonly used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```
-images/mesh-topology.png
-```
-
-Recommended diagram:
-
-- Four or five computers where every device is connected to every other device.
-- Optionally include a Full Mesh vs Partial Mesh comparison.
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Computer_network_diagrams
-- https://en.wikipedia.org/wiki/Mesh_networking
+![Mesh-Topology](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Topology/Types%20of%20Network%20Topology/Mesh%20Topology/image/mesh-topology.png?raw=true)
 
 ---
 
