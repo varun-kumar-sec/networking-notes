@@ -107,21 +107,7 @@ Bus Topology is commonly used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```
-images/bus-topology.png
-```
-
-Recommended diagram:
-
-- A backbone cable with multiple computers connected along it.
-- Include terminators at both ends of the backbone cable.
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Computer_network_diagrams
-- https://en.wikipedia.org/wiki/Bus_network
+![Bus-Topology](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Topology/Types%20of%20Network%20Topology/Bus%20Topology/image/Bus-Topology.jpg?raw=true)
 
 ---
 
