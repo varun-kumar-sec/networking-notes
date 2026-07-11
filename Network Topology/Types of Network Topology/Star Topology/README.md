@@ -110,21 +110,7 @@ Star Topology is widely used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```
-images/star-topology.png
-```
-
-Recommended diagram:
-
-- A central switch connected individually to multiple computers.
-- Clearly label the switch as the central communication device.
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Computer_network_diagrams
-- https://en.wikipedia.org/wiki/Star_network
+![Star-Topolgy](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Topology/Types%20of%20Network%20Topology/Star%20Topology/image/Star-Topology.png?raw=true)
 
 ---
 
