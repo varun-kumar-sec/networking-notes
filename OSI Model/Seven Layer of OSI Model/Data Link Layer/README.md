@@ -135,30 +135,7 @@ The Data Link Layer is used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/data-link-layer.png
-```
-
-Recommended diagram:
-
-```text
-Network Layer
-      │
-───────────────
- Data Link Layer
-───────────────
-      │
- Frame + MAC Address
-      │
-Physical Layer
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:OSI_model
-- https://en.wikipedia.org/wiki/Data_link_layer
+![data-Link-Layer](https://github.com/varun-kumar-sec/networking-notes/blob/main/OSI%20Model/Seven%20Layer%20of%20OSI%20Model/image/data_link_layer.png?raw=true)
 
 ---
 
