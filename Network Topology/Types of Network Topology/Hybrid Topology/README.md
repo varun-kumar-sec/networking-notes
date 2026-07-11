@@ -113,20 +113,7 @@ Hybrid Topology is commonly used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```
-images/hybrid-topology.png
-```
-
-Recommended diagram:
-
-- A network combining **Star** and **Bus** topologies (or Star and Ring), clearly showing how different topology segments are interconnected.
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Computer_network_diagrams
-- https://en.wikipedia.org/wiki/Network_topology
+![Hybrid-Topology](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Topology/Types%20of%20Network%20Topology/Hybrid%20Topology/image/Hybrid-Topology.png?raw=true)
 
 ---
 
