@@ -114,29 +114,7 @@ The Physical Layer is used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/physical-layer.png
-```
-
-Recommended diagram:
-
-```text
-Data Link Layer
-       │
-───────────────
- Physical Layer
-───────────────
-      Bits
-       │
-Copper Cable / Fiber / Wireless
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:OSI_model
-- https://en.wikipedia.org/wiki/Physical_layer
+![physical-Layer](https://github.com/varun-kumar-sec/networking-notes/blob/main/OSI%20Model/Seven%20Layer%20of%20OSI%20Model/image/physical_layer.png?raw=true)
 
 ---
 
