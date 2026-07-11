@@ -111,21 +111,7 @@ Tree Topology is commonly used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```
-images/tree-topology.png
-```
-
-Recommended diagram:
-
-- A backbone cable connected to multiple switches, with each switch connecting several computers.
-- Label the backbone and switches to clearly show the hierarchical structure.
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Computer_network_diagrams
-- https://en.wikipedia.org/wiki/Tree_network
+![Tree-Topology](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Topology/Types%20of%20Network%20Topology/Tree%20Topology/image/tree-topology.jpg?raw=true)
 
 ---
 
