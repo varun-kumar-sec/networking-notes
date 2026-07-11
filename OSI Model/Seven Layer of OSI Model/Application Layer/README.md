@@ -112,28 +112,7 @@ The Application Layer is used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/application-layer.png
-```
-
-Recommended diagram:
-
-```
-User
-   │
-Web Browser / Email Client / FTP Client
-   │
-──────────────
-Application Layer
-──────────────
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:OSI_model
-- https://en.wikipedia.org/wiki/Application_layer
+![Application-Layer](https://github.com/varun-kumar-sec/networking-notes/blob/main/OSI%20Model/Seven%20Layer%20of%20OSI%20Model/image/Application-layer.png?raw=true)
 
 ---
 
