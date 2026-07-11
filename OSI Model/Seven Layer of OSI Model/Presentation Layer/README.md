@@ -102,31 +102,7 @@ The Presentation Layer is used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/presentation-layer.png
-```
-
-Recommended diagram:
-
-```text
-Application Layer
-        │
-───────────────
-Presentation Layer
-───────────────
-Translation
-Encryption
-Compression
-        │
-Session Layer
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:OSI_model
-- https://en.wikipedia.org/wiki/Presentation_layer
+![Presentation-Layer](https://github.com/varun-kumar-sec/networking-notes/blob/main/OSI%20Model/Seven%20Layer%20of%20OSI%20Model/image/Presentation-Layer.png?raw=true)
 
 ---
 
