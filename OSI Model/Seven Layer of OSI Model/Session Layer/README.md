@@ -120,32 +120,7 @@ The Session Layer is used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/session-layer.png
-```
-
-Recommended diagram:
-
-```text
-Presentation Layer
-        │
-───────────────
- Session Layer
-───────────────
-Establish
-Maintain
-Terminate
-Synchronize
-        │
-Transport Layer
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:OSI_model
-- https://en.wikipedia.org/wiki/Session_layer
+![Session-Layer](https://github.com/varun-kumar-sec/networking-notes/blob/main/OSI%20Model/Seven%20Layer%20of%20OSI%20Model/image/session_layer.png?raw=true)
 
 ---
 
