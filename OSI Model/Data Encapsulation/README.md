@@ -194,53 +194,7 @@ Suppose a user opens a website.
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/data-encapsulation.png
-```
-
-Recommended diagram:
-
-```text
-Sender
-
-Application      Data
-      ↓
-Presentation     Data
-      ↓
-Session          Data
-      ↓
-Transport        Segment
-      ↓
-Network          Packet
-      ↓
-Data Link        Frame
-      ↓
-Physical         Bits
-=============================
-Transmission Medium
-=============================
-
-Receiver
-
-Bits
- ↑
-Frame
- ↑
-Packet
- ↑
-Segment
- ↑
-Data
- ↑
-Application
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:OSI_model
-- https://en.wikipedia.org/wiki/OSI_model
+![Data-Encapsulation](https://github.com/varun-kumar-sec/networking-notes/blob/main/OSI%20Model/Data%20Encapsulation/image/data-encapsulation.jpg?raw=true)
 
 ---
 
