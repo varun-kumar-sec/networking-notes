@@ -109,29 +109,7 @@ The Network Layer is used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/network-layer.png
-```
-
-Recommended diagram:
-
-```text
-Transport Layer
-       │
-───────────────
- Network Layer
-───────────────
- Packet + IP Address
-       │
-Data Link Layer
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:OSI_model
-- https://en.wikipedia.org/wiki/Network_layer
+![Network-Layer](https://github.com/varun-kumar-sec/networking-notes/blob/main/OSI%20Model/Seven%20Layer%20of%20OSI%20Model/image/network-layer.png?raw=true)
 
 ---
 
