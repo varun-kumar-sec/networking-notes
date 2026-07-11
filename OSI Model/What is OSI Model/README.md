@@ -112,20 +112,7 @@ Although the OSI Model is a reference model, it is widely used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/osi-model-overview.png
-```
-
-Recommended diagram:
-
-- A simple seven-layer OSI stack showing the names of all seven layers without explaining them.
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:OSI_model
-- https://en.wikipedia.org/wiki/OSI_model
+![OSI-Model](https://github.com/varun-kumar-sec/networking-notes/blob/main/OSI%20Model/What%20is%20OSI%20Model/image/OSI-Model.png?raw=true)
 
 ---
 
