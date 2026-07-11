@@ -111,20 +111,7 @@ Logical topology is used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```
-images/logical-topology.png
-```
-
-Recommended diagram:
-
-- A network showing data flow between devices using arrows, regardless of the physical cable connections.
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Computer_network_diagrams
-- https://en.wikipedia.org/wiki/Network_topology
+![Logical-Topology](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Topology/Types%20of%20Network%20Topology/Logical%20Topology/image/Logical-Network.jpg?raw=true)
 
 ---
 
