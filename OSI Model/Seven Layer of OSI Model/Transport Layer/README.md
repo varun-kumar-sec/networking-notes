@@ -186,31 +186,7 @@ The Transport Layer is used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/transport-layer.png
-```
-
-Recommended diagram:
-
-```text
-Session Layer
-      │
-───────────────
-Transport Layer
-───────────────
- Segments
- TCP / UDP
- Port Numbers
-      │
-Network Layer
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:OSI_model
-- https://en.wikipedia.org/wiki/Transport_layer
+![Transport-Layer](https://github.com/varun-kumar-sec/networking-notes/blob/main/OSI%20Model/Seven%20Layer%20of%20OSI%20Model/image/Transport-Layer.png?raw=true)
 
 ---
 
