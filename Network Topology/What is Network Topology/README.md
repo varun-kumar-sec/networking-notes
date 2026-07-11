@@ -106,20 +106,7 @@ Network topology is used in almost every networking environment, including:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```
-images/network-topology-overview.png
-```
-
-Suggested diagram:
-
-- Basic Network Topology Overview showing interconnected computers, switches, routers, and servers.
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Computer_network_diagrams
-- https://en.wikipedia.org/wiki/Network_topology
+![Netork-Topology-Overview](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Topology/What%20is%20Network%20Topology/image/network-topology-overview.jpg?raw=true)
 
 ---
 
