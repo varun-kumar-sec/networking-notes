@@ -117,21 +117,7 @@ Ring Topology has been used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```
-images/ring-topology.png
-```
-
-Recommended diagram:
-
-- Four or five computers connected in a closed circular loop.
-- Include arrows indicating the direction of data flow around the ring.
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Computer_network_diagrams
-- https://en.wikipedia.org/wiki/Ring_network
+![Ring-Topology](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Topology/Types%20of%20Network%20Topology/Ring%20Topology/image/Ring-Topology.jpg?raw=true)
 
 ---
 
