@@ -110,20 +110,7 @@ Physical topology is used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```
-images/physical-topology.png
-```
-
-Recommended diagram:
-
-- Physical layout of computers connected through a switch using Ethernet cables.
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Computer_network_diagrams
-- https://en.wikipedia.org/wiki/Network_topology
+![Physical-Topology](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Topology/Types%20of%20Network%20Topology/Physical%20Topology/image/Physical-Topology.png?raw=true)
 
 ---
 
