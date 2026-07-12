@@ -130,30 +130,7 @@ The **OSI Model** remains an important educational and troubleshooting tool beca
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/osi-vs-tcpip.png
-```
-
-Recommended diagram:
-
-```text
-OSI Model                  TCP/IP Model
-
-Application   ───────►   Application
-Presentation  ───────►   Application
-Session       ───────►   Application
-Transport     ───────►   Transport
-Network       ───────►   Internet
-Data Link     ───────►   Network Access
-Physical      ───────►   Network Access
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:OSI_model
-- https://en.wikipedia.org/wiki/Internet_protocol_suite
+![OSI-VS-TCP-IP](https://github.com/varun-kumar-sec/networking-notes/blob/main/TCP-IP%20Model/OSI%20VS%20TCP-IP/image/osi-VS-tcp-ip.jpg?raw=true)
 
 ---
 
