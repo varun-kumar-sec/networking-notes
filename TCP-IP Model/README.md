@@ -101,27 +101,6 @@ After completing this module, you will be able to:
 
 ---
 
-# 📷 Recommended Diagrams
-
-Store diagrams inside:
-
-```text
-TCP-IP Model/images/
-```
-
-Suggested diagrams:
-
-- TCP/IP Model Overview
-- Four TCP/IP Layers
-- Application Layer
-- Transport Layer
-- Internet Layer
-- Network Access Layer
-- OSI vs TCP/IP Comparison
-- TCP/IP Data Encapsulation
-
----
-
 # 📚 References
 
 - Cisco Networking Academy (NetAcad)
