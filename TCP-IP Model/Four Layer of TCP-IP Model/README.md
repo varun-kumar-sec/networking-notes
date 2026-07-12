@@ -137,22 +137,6 @@ The layered architecture provides several benefits:
 - Allows protocols to evolve independently.
 - Enables scalable Internet communication.
 
----
-
-# 📷 Recommended Diagrams
-
-Store diagrams inside:
-
-```text
-TCP-IP Model/images/
-```
-
-Suggested diagrams:
-
-- TCP/IP Model Overview
-- Four TCP/IP Layers
-- Data Encapsulation
-- Layer Mapping with the OSI Model
 
 ---
 
