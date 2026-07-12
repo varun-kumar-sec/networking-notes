@@ -161,53 +161,7 @@ Suppose a user visits a website.
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/tcp-ip-encapsulation.png
-```
-
-Recommended diagram:
-
-```text
-Sender
-
-Application Layer
-        │
-      Data
-        ↓
-Transport Layer
-        │
-    Segment
-        ↓
-Internet Layer
-        │
-     Packet
-        ↓
-Network Access Layer
-        │
- Frame → Bits
-=========================
-Network Transmission
-=========================
-
-Receiver
-
-Bits
- ↑
-Frame
- ↑
-Packet
- ↑
-Segment
- ↑
-Data
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:TCP/IP
-- https://en.wikipedia.org/wiki/Internet_protocol_suite
+![Data-Encapsulation](https://github.com/varun-kumar-sec/networking-notes/blob/main/TCP-IP%20Model/Data%20Encapsulation%20in%20TCP-IP/image/data-Encapsulation-in-tcp-ip.jpg?raw=true)
 
 ---
 
