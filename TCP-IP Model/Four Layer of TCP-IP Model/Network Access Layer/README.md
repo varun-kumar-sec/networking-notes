@@ -139,30 +139,7 @@ The Network Access Layer is used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/network-access-layer.png
-```
-
-Recommended diagram:
-
-```text
-+----------------------------------+
-|     Network Access Layer         |
-+----------------------------------+
-| Ethernet | Wi-Fi | PPP | MAC     |
-+----------------------------------+
-          │
-      Frame → Bits
-          │
- Communication Medium
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Internet_protocol_suite
-- https://en.wikipedia.org/wiki/Link_layer
+![Network-access-layer](https://github.com/varun-kumar-sec/networking-notes/blob/main/TCP-IP%20Model/Four%20Layer%20of%20TCP-IP%20Model/image/network_access_layer.png?raw=true)
 
 ---
 
