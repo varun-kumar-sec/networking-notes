@@ -112,27 +112,7 @@ The Application Layer is used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/application-layer.png
-```
-
-Recommended diagram:
-
-```text
-+------------------------------+
-|      Application Layer       |
-+------------------------------+
-| HTTP | HTTPS | FTP | DNS |
-| SMTP | DHCP | SSH | IMAP |
-+------------------------------+
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Internet_protocol_suite
-- https://en.wikipedia.org/wiki/Application_layer
+![Application-layer](https://github.com/varun-kumar-sec/networking-notes/blob/main/TCP-IP%20Model/Four%20Layer%20of%20TCP-IP%20Model/image/Application_layer.png?raw=true)
 
 ---
 
