@@ -124,30 +124,7 @@ The TCP/IP Model is used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/tcp-ip-model-overview.png
-```
-
-Recommended diagram:
-
-```text
-+---------------------------+
-|   Application Layer       |
-+---------------------------+
-|     Transport Layer       |
-+---------------------------+
-|      Internet Layer       |
-+---------------------------+
-|  Network Access Layer     |
-+---------------------------+
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:TCP/IP
-- https://en.wikipedia.org/wiki/Internet_protocol_suite
+![TCP-IP-Model](https://github.com/varun-kumar-sec/networking-notes/blob/main/TCP-IP%20Model/What%20is%20TCP-IP%20Model/image/TCP-IP-Model.jpg?raw=true)
 
 ---
 
