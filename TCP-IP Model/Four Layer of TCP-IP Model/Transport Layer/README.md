@@ -161,26 +161,7 @@ The Transport Layer is used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/transport-layer.png
-```
-
-Recommended diagram:
-
-```text
-+---------------------------+
-|     Transport Layer       |
-+---------------------------+
-| TCP | UDP | Port Numbers  |
-+---------------------------+
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Internet_protocol_suite
-- https://en.wikipedia.org/wiki/Transport_layer
+![Transport-Layer](https://github.com/varun-kumar-sec/networking-notes/blob/main/TCP-IP%20Model/Four%20Layer%20of%20TCP-IP%20Model/image/Transport-layer.png?raw=true)
 
 ---
 
