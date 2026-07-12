@@ -123,30 +123,8 @@ The Internet Layer is used in:
 
 # 📷 Diagram
 
-Save the diagram as:
+![Internet-Layer](https://github.com/varun-kumar-sec/networking-notes/blob/main/TCP-IP%20Model/Four%20Layer%20of%20TCP-IP%20Model/image/Internet-Layer.png?raw=true)
 
-```text
-images/internet-layer.png
-```
-
-Recommended diagram:
-
-```text
-+--------------------------+
-|      Internet Layer      |
-+--------------------------+
-| IPv4 | IPv6 | ICMP | IGMP|
-+--------------------------+
-          │
-      IP Address
-          │
-        Router
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Internet_protocol_suite
-- https://en.wikipedia.org/wiki/Internet_layer
 
 ---
 
