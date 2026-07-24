@@ -158,30 +158,7 @@ FTP is commonly used for:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/ftp-working.png
-```
-
-Recommended diagram:
-
-```text
-FTP Client
-     │
-     │ TCP Port 21 (Control)
-     ▼
-FTP Server
-     ▲
-     │ TCP Port 20 / Passive Port
-     │
- File Transfer
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:File_Transfer_Protocol
-- https://en.wikipedia.org/wiki/File_Transfer_Protocol
+![FTP](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Protocol/Image/ftp.jpg?raw=true)
 
 ---
 
