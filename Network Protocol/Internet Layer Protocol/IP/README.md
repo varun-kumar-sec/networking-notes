@@ -158,36 +158,7 @@ IP is used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/ip-routing.png
-```
-
-Recommended diagram:
-
-```text
-Computer A
-(IP Address)
-      │
-      ▼
-    Router
-      │
-      ▼
- Internet
-      │
-      ▼
-    Router
-      │
-      ▼
-Computer B
-(IP Address)
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Internet_Protocol
-- https://en.wikipedia.org/wiki/Internet_Protocol
+![IP](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Protocol/Image/ip.jpg?raw=true)
 
 ---
 
