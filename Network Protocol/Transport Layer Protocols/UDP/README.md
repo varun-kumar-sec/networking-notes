@@ -126,29 +126,7 @@ UDP is commonly used by:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/udp-working.png
-```
-
-Recommended diagram:
-
-```text
-Sender
-   │
-   │ Datagram
-   ▼
-Receiver
-
-(No Connection Setup)
-(No Acknowledgment)
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:User_Datagram_Protocol
-- https://en.wikipedia.org/wiki/User_Datagram_Protocol
+![UDP](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Protocol/Image/udp.png?raw=true)
 
 ---
 
