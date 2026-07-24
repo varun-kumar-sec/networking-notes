@@ -145,32 +145,7 @@ Network protocols are used in almost every network activity, including:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/network-protocol.png
-```
-
-Recommended diagram:
-
-```text
-Computer A
-     │
-     │  Network Protocol (Rules)
-     ▼
-=============================
-      Network
-=============================
-     ▲
-     │  Network Protocol (Rules)
-     │
-Computer B
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Networking
-- https://en.wikipedia.org/wiki/Communication_protocol
+![network-protocols](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Protocol/Image/network-protocols.png?raw=true)
 
 ---
 
