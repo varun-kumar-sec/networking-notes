@@ -189,30 +189,7 @@ HTTP is used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/http-request-response.png
-```
-
-Recommended diagram:
-
-```text
-Web Browser
-      │
-      │ HTTP Request
-      ▼
- Web Server
-      ▲
-      │ HTTP Response
-      │
- Displays Web Page
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Hypertext_Transfer_Protocol
-- https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+![HTTP](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Protocol/Image/HTTP.png?raw=true)
 
 ---
 
