@@ -194,32 +194,7 @@ SNMP is commonly used for:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/snmp-working.png
-```
-
-Recommended diagram:
-
-```text
-             SNMP Manager
-                  │
-         Request / Response
-                  │
-      -----------------------
-      │          │         │
-      ▼          ▼         ▼
- Router      Switch     Server
-  │             │          │
- SNMP         SNMP       SNMP
- Agent        Agent      Agent
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Simple_Network_Management_Protocol
-- https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol
+![SNMP](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Protocol/Image/snmp.jpg?raw=true)
 
 ---
 
