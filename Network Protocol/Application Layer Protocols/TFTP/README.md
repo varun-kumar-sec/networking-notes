@@ -125,30 +125,7 @@ TFTP is commonly used for:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/tftp-working.png
-```
-
-Recommended diagram:
-
-```text
-TFTP Client
-      │
-      │ Request File
-      ▼
- TFTP Server
-      │
-      │ File Transfer (UDP)
-      ▼
-TFTP Client
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Trivial_File_Transfer_Protocol
-- https://en.wikipedia.org/wiki/Trivial_File_Transfer_Protocol
+![TFTP](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Protocol/Image/TFTP.jpg?raw=true)
 
 ---
 
