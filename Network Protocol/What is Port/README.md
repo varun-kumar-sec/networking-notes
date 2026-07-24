@@ -165,30 +165,7 @@ Ports are used whenever you:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/what-is-port.png
-```
-
-Recommended diagram:
-
-```text
-           Device
-     IP: 192.168.1.10
-    +--------------------+
-    | HTTP   → Port 80   |
-    | HTTPS  → Port 443  |
-    | FTP    → Port 21   |
-    | SMTP   → Port 25   |
-    | DNS    → Port 53   |
-    +--------------------+
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Computer_networking
-- https://en.wikipedia.org/wiki/Port_(computer_networking)
+![network-ports](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Protocol/Image/networks_ports.Png?raw=true)
 
 ---
 
