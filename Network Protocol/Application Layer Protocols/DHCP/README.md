@@ -161,27 +161,7 @@ DHCP is widely used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/dhcp-dora-process.png
-```
-
-Recommended diagram:
-
-```text
-Client                     DHCP Server
-   |                             |
-   |---- DHCP Discover --------->|
-   |<----- DHCP Offer -----------|
-   |---- DHCP Request ---------->|
-   |<------ DHCP ACK ------------|
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Dynamic_Host_Configuration_Protocol
-- https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol
+![DHCP](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Protocol/Image/dhcp.jpg?raw=true)
 
 ---
 
