@@ -170,40 +170,7 @@ DNS is used whenever you:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/dns-resolution-process.png
-```
-
-Recommended diagram:
-
-```text
-User
- │
- ▼
-DNS Resolver
- │
- ▼
-Root DNS Server
- │
- ▼
-TLD Server (.com)
- │
- ▼
-Authoritative DNS Server
- │
- ▼
-Returns IP Address
- │
- ▼
-Website
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Domain_Name_System
-- https://en.wikipedia.org/wiki/Domain_Name_System
+![DNS](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Protocol/Image/DNS.png?raw=true)
 
 ---
 
