@@ -159,30 +159,7 @@ TCP is commonly used by:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/tcp-three-way-handshake.png
-```
-
-Recommended diagram:
-
-```text
-Client                      Server
-
-  SYN  -------------------->
-
-       <---------------- SYN + ACK
-
-  ACK  -------------------->
-
-Connection Established
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Transmission_Control_Protocol
-- https://en.wikipedia.org/wiki/Transmission_Control_Protocol
+![TCP](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Protocol/Image/TCP.jpeg?raw=true)
 
 ---
 
