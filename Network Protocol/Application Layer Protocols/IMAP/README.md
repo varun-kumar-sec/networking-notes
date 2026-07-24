@@ -139,34 +139,7 @@ IMAP is commonly used by:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/imap-working.png
-```
-
-Recommended diagram:
-
-```text
- Laptop
-    │
- Smartphone
-    │
- Tablet
-    │
- Desktop
-    │
-    ▼
- IMAP Mail Server
-    │
- Emails Stored &
- Synchronized
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Internet_Message_Access_Protocol
-- https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol
+![IMAP](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Protocol/Image/IMAP.jpg?raw=true)
 
 ---
 
