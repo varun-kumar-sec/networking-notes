@@ -166,39 +166,7 @@ ARP is commonly used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/arp-working.png
-```
-
-Recommended diagram:
-
-```text
-Computer A
-(IP: 192.168.1.2)
-      │
-      │ ARP Request (Broadcast)
-      ▼
-"Who has 192.168.1.10?"
-
----------------- LAN ----------------
-
-Computer B
-(IP: 192.168.1.10)
-(MAC: 00:1A:2B:3C:4D:5E)
-
-      │
-      │ ARP Reply (Unicast)
-      ▼
-
-MAC Address Returned
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Address_Resolution_Protocol
-- https://en.wikipedia.org/wiki/Address_Resolution_Protocol
+![ARP](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Protocol/Image/arp.jpg?raw=true)
 
 ---
 
