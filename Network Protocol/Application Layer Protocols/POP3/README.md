@@ -129,30 +129,7 @@ POP3 is commonly used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/pop3-working.png
-```
-
-Recommended diagram:
-
-```text
-Email Client
-      │
-      │ POP3 Request
-      ▼
- Mail Server
-      │
- Downloads Emails
-      ▼
- Local Storage
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Post_Office_Protocol
-- https://en.wikipedia.org/wiki/Post_Office_Protocol
+![POP3](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Protocol/Image/POP3.jpg?raw=true)
 
 ---
 
