@@ -142,34 +142,7 @@ SMTP is used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/smtp-working.png
-```
-
-Recommended diagram:
-
-```text
-Sender
-   │
-Email Client
-   │ SMTP
-   ▼
-Outgoing Mail Server
-   │
-   ▼
-Recipient Mail Server
-   │
-POP3 / IMAP
-   ▼
-Recipient
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Simple_Mail_Transfer_Protocol
-- https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
+![SMTP](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Protocol/Image/smtp.png?raw=true)
 
 ---
 
