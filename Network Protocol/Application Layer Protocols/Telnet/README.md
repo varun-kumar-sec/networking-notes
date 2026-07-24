@@ -120,30 +120,7 @@ Telnet is commonly used for:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/telnet-working.png
-```
-
-Recommended diagram:
-
-```text
-Telnet Client
-      │
-      │ TCP Port 23
-      ▼
-Telnet Server
-      │
-Remote Command-Line Session
-      ▼
-Network Device
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Telnet
-- https://en.wikipedia.org/wiki/Telnet
+![Telnet](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Protocol/Image/Telnet.png?raw=true)
 
 ---
 
