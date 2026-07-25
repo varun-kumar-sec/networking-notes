@@ -236,30 +236,7 @@ Even though CIDR has replaced classful addressing in modern networking, IPv4 cla
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/ipv4-address-classes.png
-```
-
-Recommended diagram:
-
-```text
-Class A  → Large Networks
-
-Class B  → Medium Networks
-
-Class C  → Small Networks
-
-Class D  → Multicast
-
-Class E  → Experimental
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:IPv4
-- https://en.wikipedia.org/wiki/Classful_network
+![Ipv4-address-classes](https://github.com/varun-kumar-sec/networking-notes/blob/main/IP%20Addressing/Image/IPv4-Address-Classes.png?raw=true)
 
 ---
 
