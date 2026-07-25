@@ -120,30 +120,7 @@ WMAN is commonly used for:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/wman.png
-```
-
-Recommended diagram:
-
-```text
-             Internet
-                 │
-         Central Base Station
-            /     |      \
-           /      |       \
-      Building A  Building B  Campus
-           │          │         │
-         Local LAN  Local LAN  Local WLAN
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Wireless_metropolitan_area_network
-- https://en.wikipedia.org/wiki/Metropolitan_area_network
-- https://en.wikipedia.org/wiki/WiMAX
+![WMAN](https://github.com/varun-kumar-sec/networking-notes/blob/main/Wireless%20Networking/Image/wman.png?raw=true)
 
 ---
 
