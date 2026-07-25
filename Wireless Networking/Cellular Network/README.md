@@ -133,30 +133,7 @@ Cellular networks are commonly used for:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/cellular-network.png
-```
-
-Recommended diagram:
-
-```text
-             Internet
-                 │
-          Mobile Core Network
-                 │
-      ─────────────────────────
-       │          │          │
-   Cell Tower  Cell Tower  Cell Tower
-       │          │          │
-   Smartphone   Tablet     Vehicle
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Cellular_networks
-- https://en.wikipedia.org/wiki/Cellular_network
+![Cellular-network](https://github.com/varun-kumar-sec/networking-notes/blob/main/Wireless%20Networking/Image/Cellular-network.png?raw=true)
 
 ---
 
