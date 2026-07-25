@@ -155,38 +155,7 @@ The ipconfig command is commonly used to:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/ipconfig-command.png
-```
-
-Recommended diagram:
-
-```text
-Command Prompt
-
-↓
-
-ipconfig
-
-↓
-
-Displays
-
-IPv4 Address
-Subnet Mask
-Default Gateway
-
-↓
-
-Verify Network Configuration
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/windows-server/administration/windows-commands/ipconfig
-- https://en.wikipedia.org/wiki/Ipconfig
+![Ipconfig](https://github.com/varun-kumar-sec/networking-notes/blob/main/IP%20Addressing/Image/ipconfig.png?raw=true)
 
 ---
 
