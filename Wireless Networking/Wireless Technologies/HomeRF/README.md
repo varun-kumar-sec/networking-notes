@@ -140,30 +140,7 @@ Today, these applications are almost entirely handled by **Wi-Fi**.
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/homerf.png
-```
-
-Recommended diagram:
-
-```text
-          HomeRF Network
-
-        🖥️ Computer
-             │
-        📞 Telephone
-             │
-        🖨️ Printer
-             │
-         📡 HomeRF Hub
-```
-
-Suggested sources:
-
-- https://en.wikipedia.org/wiki/HomeRF
-- https://commons.wikimedia.org/wiki/Category:Wireless_networking
+![HomeRF](https://github.com/varun-kumar-sec/networking-notes/blob/main/Wireless%20Networking/Image/HomeRF.png?raw=true)
 
 ---
 
