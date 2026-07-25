@@ -123,31 +123,7 @@ This allows data to travel across networks and reach the intended device.
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/ip-address-concept.png
-```
-
-Recommended diagram:
-
-```text
-Computer A
-IP: 192.168.1.2
-      │
-      │ Data Packet
-      ▼
-   Internet / Network
-      │
-      ▼
-Computer B
-IP: 192.168.1.10
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:IP_addresses
-- https://en.wikipedia.org/wiki/IP_address
+![Ip-address](https://github.com/varun-kumar-sec/networking-notes/blob/main/IP%20Addressing/Image/ip-address.jpeg?raw=true)
 
 ---
 
