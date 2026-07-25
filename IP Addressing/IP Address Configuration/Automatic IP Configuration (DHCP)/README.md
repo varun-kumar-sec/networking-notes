@@ -153,43 +153,7 @@ Automatic IP configuration is commonly used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/automatic-ip-configuration.png
-```
-
-Recommended diagram:
-
-```text
-Computer
-
-↓
-
-Requests IP Configuration
-
-↓
-
-DHCP Server
-
-↓
-
-Assigns
-
-IP Address
-Subnet Mask
-Gateway
-DNS
-
-↓
-
-Computer Ready
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Dynamic_Host_Configuration_Protocol
-- https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol
+![Automatic-ip-configuration-DHCP](https://github.com/varun-kumar-sec/networking-notes/blob/main/IP%20Addressing/Image/automatic-ip-configuration-dhcp.png?raw=true)
 
 ---
 
