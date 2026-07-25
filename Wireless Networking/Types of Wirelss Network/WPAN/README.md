@@ -123,30 +123,7 @@ WPAN is commonly used for:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/wpan.png
-```
-
-Recommended diagram:
-
-```text
-          Smartphone
-             📱
-           /  |  \
-          /   |   \
-         /    |    \
-🎧 Earbuds   ⌚ Smartwatch
-         \
-          \
-        ⌨️ Keyboard
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Wireless_personal_area_network
-- https://en.wikipedia.org/wiki/Wireless_personal_area_network
+![WPAN](https://github.com/varun-kumar-sec/networking-notes/blob/main/Wireless%20Networking/Image/WPAN.jpg?raw=true)
 
 ---
 
