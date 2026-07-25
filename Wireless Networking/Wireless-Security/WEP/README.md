@@ -113,28 +113,7 @@ Today, WEP should **not** be used to secure wireless networks.
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/wep.png
-```
-
-Recommended diagram:
-
-```text
-Laptop
-   │
-Encrypted Data (WEP)
-   │
-~~~~~~~~ Wi-Fi Signal ~~~~~~~~
-   │
-Wireless Access Point
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Wireless_security
-- https://en.wikipedia.org/wiki/Wired_Equivalent_Privacy
+![WEP](https://github.com/varun-kumar-sec/networking-notes/blob/main/Wireless%20Networking/Image/WEP.png?raw=true)
 
 ---
 
