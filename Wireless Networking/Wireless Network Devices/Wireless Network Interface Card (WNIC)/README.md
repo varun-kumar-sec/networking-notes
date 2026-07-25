@@ -129,29 +129,7 @@ WNICs are used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/wnic.png
-```
-
-Recommended diagram:
-
-```text
-          Wireless Access Point
-               ))))))))))
-                    │
-          ┌───────────────────┐
-          │      Laptop       │
-          │                   │
-          │   Wireless NIC    │
-          └───────────────────┘
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Wireless_network_interface_cards
-- https://en.wikipedia.org/wiki/Network_interface_controller
+![WNIC](https://github.com/varun-kumar-sec/networking-notes/blob/main/Wireless%20Networking/Image/WNIC.png?raw=true)
 
 ---
 
