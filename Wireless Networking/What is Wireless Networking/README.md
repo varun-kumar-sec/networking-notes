@@ -116,30 +116,7 @@ Wireless networking is commonly used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/what-is-wireless-networking.png
-```
-
-Recommended diagram:
-
-```text
-        Internet
-            │
-            │
-   Wireless Access Point
-        )))))))))))
-      ))         ))
-   Laptop      Smartphone
-      ))         ))
-     Tablet   Smart TV
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Wireless_networking
-- https://en.wikipedia.org/wiki/Wireless_network
+![Wireless-network](https://github.com/varun-kumar-sec/networking-notes/blob/main/Wireless%20Networking/Image/wireless-networks.png?raw=true)
 
 ---
 
