@@ -131,29 +131,7 @@ WLAN is commonly used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/wlan.png
-```
-
-Recommended diagram:
-
-```text
-             Internet
-                 │
-                 │
-      Wireless Access Point
-          )))))))))))))
-        /      |      \
-       /       |       \
- Laptop     Smartphone   Tablet
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Wireless_local_area_network
-- https://en.wikipedia.org/wiki/Wireless_LAN
+![WLAN](https://github.com/varun-kumar-sec/networking-notes/blob/main/Wireless%20Networking/Image/wlan.jpg?raw=true)
 
 ---
 
