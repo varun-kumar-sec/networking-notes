@@ -121,32 +121,7 @@ Wireless Access Points are commonly used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/wap.png
-```
-
-Recommended diagram:
-
-```text
-             Internet
-                 │
-             Network Switch
-                 │
-      ┌─────────────────────┐
-      │ Wireless Access Point│
-      └─────────────────────┘
-          )))))))))))))))
-        /       |       \
-       /        |        \
- Laptop    Smartphone   Tablet
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Wireless_access_points
-- https://en.wikipedia.org/wiki/Wireless_access_point
+![WAP](https://github.com/varun-kumar-sec/networking-notes/blob/main/Wireless%20Networking/Image/WAP.png?raw=true)
 
 ---
 
