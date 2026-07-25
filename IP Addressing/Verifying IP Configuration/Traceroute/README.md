@@ -171,40 +171,7 @@ Traceroute is commonly used to:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/traceroute-command.png
-```
-
-Recommended diagram:
-
-```text
-Computer
-
-↓
-
-Router 1
-
-↓
-
-Router 2
-
-↓
-
-Router 3
-
-↓
-
-Destination Server
-
-(Hop 1 → Hop 2 → Hop 3 → Hop 4)
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/windows-server/administration/windows-commands/tracert
-- https://en.wikipedia.org/wiki/Traceroute
+![Traceroute](https://github.com/varun-kumar-sec/networking-notes/blob/main/IP%20Addressing/Image/Traceroute.png?raw=true)
 
 ---
 
