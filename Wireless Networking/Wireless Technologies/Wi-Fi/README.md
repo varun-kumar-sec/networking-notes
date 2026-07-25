@@ -156,29 +156,7 @@ Wi-Fi is commonly used in:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/wifi.png
-```
-
-Recommended diagram:
-
-```text
-             Internet
-                 │
-                 │
-         Wireless Router
-          )))))))))))))
-        /      |      \
-       /       |       \
- Laptop     Smartphone   Tablet
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Wi-Fi
-- https://en.wikipedia.org/wiki/Wi-Fi
+![WiFi](https://github.com/varun-kumar-sec/networking-notes/blob/main/Wireless%20Networking/Image/wifi.png?raw=true)
 
 ---
 
