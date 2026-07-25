@@ -211,32 +211,7 @@ Choose **6 GHz** when:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/wifi-frequency-bands.png
-```
-
-Recommended diagram:
-
-```text
-Coverage
-
-2.4 GHz  ───────────────────────────────
-5 GHz    ────────────────────
-6 GHz    ───────────────
-
-Speed
-
-2.4 GHz  ███
-5 GHz    ███████
-6 GHz    ██████████
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Wi-Fi
-- https://en.wikipedia.org/wiki/Wi-Fi
+![Wifi-Frequency-Band](https://github.com/varun-kumar-sec/networking-notes/blob/main/Wireless%20Networking/Image/WIFI-frequency-Bands.jpg?raw=true)
 
 ---
 
