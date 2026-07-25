@@ -145,28 +145,7 @@ IPv4 has the following characteristics:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/ipv4-format.png
-```
-
-Recommended diagram:
-
-```text
-IPv4 Address
-
-192 . 168 . 1 . 10
- │      │     │    │
-8 bits 8 bits 8 bits 8 bits
-
-Total = 32 bits
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:IPv4
-- https://en.wikipedia.org/wiki/IPv4
+![Ipv4](https://github.com/varun-kumar-sec/networking-notes/blob/main/IP%20Addressing/Image/IPv4.png?raw=true)
 
 ---
 
