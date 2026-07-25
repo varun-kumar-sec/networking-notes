@@ -149,46 +149,7 @@ When these devices access the Internet, the router performs NAT so that external
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/public-vs-private-ip.png
-```
-
-Recommended diagram:
-
-```text
-Laptop
-192.168.1.10
-      │
-Phone
-192.168.1.11
-      │
-Smart TV
-192.168.1.12
-      │
-───────────────
-Home Router
-Private LAN
-
-↓
-
-NAT
-
-↓
-
-Public IP
-203.x.x.x
-
-↓
-
-Internet
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:IP_addresses
-- https://en.wikipedia.org/wiki/Private_network
+![public-vs-private-ip](https://github.com/varun-kumar-sec/networking-notes/blob/main/IP%20Addressing/Image/public-vs-private-ip.jpg?raw=true)
 
 ---
 
