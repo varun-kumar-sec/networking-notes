@@ -112,28 +112,7 @@ Unlike WEP, WPA uses improved key management, making it much more difficult for 
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/wpa.png
-```
-
-Recommended diagram:
-
-```text
-Laptop
-   │
-Encrypted Data (WPA)
-   │
-~~~~~~~~ Wi-Fi Signal ~~~~~~~~
-   │
-Wireless Access Point
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Wireless_security
-- https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access
+![WPA](https://github.com/varun-kumar-sec/networking-notes/blob/main/Wireless%20Networking/Image/WPA.png?raw=true)
 
 ---
 
