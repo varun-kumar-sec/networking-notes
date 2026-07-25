@@ -151,36 +151,7 @@ The complete process is as follows:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/ipv4-communication.png
-```
-
-Recommended diagram:
-
-```text
-Computer A
-192.168.1.10
-      │
-      ▼
-   Router
-      │
-      ▼
-   Internet
-      │
-      ▼
-   Router
-      │
-      ▼
-Computer B
-10.0.0.20
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Internet_Protocol
-- https://en.wikipedia.org/wiki/Internet_Protocol
+![Ip-address-work](https://github.com/varun-kumar-sec/networking-notes/blob/main/IP%20Addressing/Image/IP-Addresses-Work.jpg?raw=true)
 
 ---
 
