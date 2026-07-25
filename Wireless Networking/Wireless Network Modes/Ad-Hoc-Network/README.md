@@ -106,27 +106,7 @@ Ad Hoc Networks are commonly used for:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/ad-hoc-network.png
-```
-
-Recommended diagram:
-
-```text
-Laptop  ───────── Smartphone
-   │                  │
-   │                  │
- Tablet ───────── Another Laptop
-
-(Direct Device-to-Device Communication)
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Ad_hoc_networks
-- https://en.wikipedia.org/wiki/Wireless_ad_hoc_network
+![Ad-Hoc](https://github.com/varun-kumar-sec/networking-notes/blob/main/Wireless%20Networking/Image/Ad-hoc-network.png?raw=true)
 
 ---
 
