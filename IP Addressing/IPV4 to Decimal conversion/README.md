@@ -234,30 +234,7 @@ Each decimal octet is converted separately.
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/binary-place-values.png
-```
-
-Recommended diagram:
-
-```text
-Bit Position
-
-1   1   0   0   0   0   0   0
-
-128 64 32 16 8 4 2 1
-
-↓
-
-192
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Binary_numeral_system
-- https://en.wikipedia.org/wiki/Binary_number
+![ipv4-to-decimal-conversion](https://github.com/varun-kumar-sec/networking-notes/blob/main/IP%20Addressing/Image/ipv4-to-decimal-conversion.png?raw=true)
 
 ---
 
