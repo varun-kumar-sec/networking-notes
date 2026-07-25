@@ -152,38 +152,7 @@ Static IP addresses are commonly used for:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/manual-ip-configuration.png
-```
-
-Recommended diagram:
-
-```text
-Computer
-
-IP Address:
-192.168.1.10
-
-Subnet Mask:
-255.255.255.0
-
-Gateway:
-192.168.1.1
-
-DNS:
-8.8.8.8
-
-↓
-
-Configured Manually
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Internet_Protocol
-- https://en.wikipedia.org/wiki/IP_address
+![Manual-ip-configuration](https://github.com/varun-kumar-sec/networking-notes/blob/main/IP%20Addressing/Image/manual-ip-configuration.png?raw=true)
 
 ---
 
