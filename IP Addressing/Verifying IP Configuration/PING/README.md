@@ -222,42 +222,7 @@ Ping is commonly used to:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/ping-command.png
-```
-
-Recommended diagram:
-
-```text
-Computer A
-
-↓
-
-ICMP Echo Request
-
-↓
-
-Router
-
-↓
-
-Computer B
-
-↓
-
-ICMP Echo Reply
-
-↓
-
-Computer A
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/windows-server/administration/windows-commands/ping
-- https://en.wikipedia.org/wiki/Ping_(networking_utility)
+![Ping](https://github.com/varun-kumar-sec/networking-notes/blob/main/IP%20Addressing/Image/ping.png?raw=true)
 
 ---
 
