@@ -127,30 +127,7 @@ WWAN is commonly used for:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/wwan.png
-```
-
-Recommended diagram:
-
-```text
-            Internet
-                │
-        Cellular Core Network
-                │
-        ──────────────────
-         │       │       │
-     Cell Tower Cell Tower Cell Tower
-         │       │       │
-     Smartphone Tablet Laptop
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Cellular_networks
-- https://en.wikipedia.org/wiki/Wireless_wide_area_network
+![WWAN](https://github.com/varun-kumar-sec/networking-notes/blob/main/Wireless%20Networking/Image/wwan.png?raw=true)
 
 ---
 
