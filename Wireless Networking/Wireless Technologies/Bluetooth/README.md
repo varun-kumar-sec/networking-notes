@@ -128,29 +128,7 @@ Bluetooth is commonly used for:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/bluetooth.png
-```
-
-Recommended diagram:
-
-```text
-        Smartphone
-            📱
-          /     \
-         /       \
-🎧 Earbuds      ⌚ Smartwatch
-         \
-          \
-        ⌨️ Keyboard
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Bluetooth
-- https://en.wikipedia.org/wiki/Bluetooth
+![Bluetooth](https://github.com/varun-kumar-sec/networking-notes/blob/main/Wireless%20Networking/Image/bluetooth.png?raw=true)
 
 ---
 
