@@ -161,50 +161,6 @@ Reduce the likelihood of transceiver mismatch by:
 
 ---
 
-# 📷 Diagram
-
-Save the diagram as:
-
-```text
-images/transceiver-mismatch.png
-```
-
-Recommended diagram:
-
-```text
-Correct Configuration
-
-Switch A
-[SFP 1G]
-    │
-Fiber Cable
-    │
-[SFP 1G]
-Switch B
-
-✔ Link Established
-
-
-Incorrect Configuration
-
-Switch A
-[SFP 1G]
-    │
-Fiber Cable
-    │
-[SFP 10G]
-Switch B
-
-✖ Link Failure
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Small_form-factor_pluggable_transceiver
-- https://en.wikipedia.org/wiki/Small_form-factor_pluggable_transceiver
-
----
-
 # 🎤 Interview Questions
 
 ### Beginner
