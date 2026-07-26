@@ -142,38 +142,6 @@ Reduce the risk of bad ports by:
 
 ---
 
-# 📷 Diagram
-
-Save the diagram as:
-
-```text
-images/bad-port.png
-```
-
-Recommended diagram:
-
-```text
-Working Port
-
-PC ================= Switch Port 1
-
-✔ Network Connected
-
-
-Faulty Port
-
-PC ================= Switch Port 2
-
-✖ No Link
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Ethernet
-- https://en.wikipedia.org/wiki/Network_switch
-
----
-
 # 🎤 Interview Questions
 
 ### Beginner
