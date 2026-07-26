@@ -126,41 +126,6 @@ To reduce pinout problems:
 
 ---
 
-# 📷 Diagram
-
-Save the diagram as:
-
-```text
-images/incorrect-cable-pinout.png
-```
-
-Recommended diagram:
-
-```text
-Correct Cable
-
-PC ==================== Switch
-(T568B)              (T568B)
-
-✔ Network Works
-
-
-Incorrect Cable
-
-PC ======X============ Switch
-
-Wrong Wire Order
-
-✖ No Communication
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Ethernet
-- https://en.wikipedia.org/wiki/TIA/EIA-568
-
----
-
 # 🎤 Interview Questions
 
 ### Beginner
