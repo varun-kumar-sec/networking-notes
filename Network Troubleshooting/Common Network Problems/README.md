@@ -1,13 +1,4 @@
 # Common Network Problems
-
-> **Module:** Network Troubleshooting  
-> **Section:** Common Network Problems  
-> **Difficulty:** Beginner  
-> **Prerequisites:** Network Cables, Network Devices, Basic Networking Concepts  
-> **Estimated Reading Time:** 10–15 Minutes
-
----
-
 # 📖 Overview
 
 Network communication depends on the proper operation of physical cables, connectors, network interfaces, and communication devices. Even a minor fault in these components can lead to slow performance, intermittent connectivity, or complete network failure.
