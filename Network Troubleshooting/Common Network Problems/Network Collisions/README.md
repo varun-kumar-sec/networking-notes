@@ -137,45 +137,6 @@ Prevent collisions by:
 
 ---
 
-# 📷 Diagram
-
-Save the diagram as:
-
-```text
-images/network-collision.png
-```
-
-Recommended diagram:
-
-```text
-          Hub
-
-     PC A ----\
-               \
-                HUB ===== Network
-               /
-     PC B ----/
-
-Both PCs transmit simultaneously
-
-❌ Collision
-
-
-Modern Network
-
-PC A ---- Switch ---- PC B
-
-✔ Independent communication
-✔ No collisions (Full-Duplex)
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Ethernet
-- https://en.wikipedia.org/wiki/Collision_domain
-
----
-
 # 🎤 Interview Questions
 
 ### Beginner
