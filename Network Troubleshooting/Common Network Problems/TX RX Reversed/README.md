@@ -142,44 +142,6 @@ Prevent TX/RX reversal by:
 
 ---
 
-# 📷 Diagram
-
-Save the diagram as:
-
-```text
-images/tx-rx-reversed.png
-```
-
-Recommended diagram:
-
-```text
-Correct Connection
-
-Device A                 Device B
-
-TX -------------------- RX
-RX -------------------- TX
-
-✔ Communication Works
-
-
-Incorrect Connection
-
-Device A                 Device B
-
-TX -------------------- TX
-RX -------------------- RX
-
-✖ Communication Fails
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Ethernet
-- https://en.wikipedia.org/wiki/TIA/EIA-568
-
----
-
 # 🎤 Interview Questions
 
 ### Beginner
