@@ -139,43 +139,6 @@ Prevent bent pins by:
 
 ---
 
-# 📷 Diagram
-
-Save the diagram as:
-
-```text
-images/bent-pins.png
-```
-
-Recommended diagram:
-
-```text
-Normal Port
-
-RJ-45 Port
-
-| | | | | | | |
-
-✔ Proper Contact
-
-
-Damaged Port
-
-RJ-45 Port
-
-| | / | \ | | |
-
-✖ Bent Pins
-✖ Poor Electrical Contact
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Ethernet
-- https://en.wikipedia.org/wiki/Modular_connector
-
----
-
 # 🎤 Interview Questions
 
 ### Beginner
