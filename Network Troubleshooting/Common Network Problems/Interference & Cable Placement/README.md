@@ -162,50 +162,6 @@ Follow these best practices:
 
 ---
 
-# 📷 Diagram
-
-Save the diagram as:
-
-```text
-images/interference-cable-placement.png
-```
-
-Recommended diagram:
-
-```text
-Poor Installation
-
-Power Cable
-=========================
-
-Ethernet Cable
-=========================
-
-✖ Electrical Interference
-
-
-Proper Installation
-
-Power Cable
-=========================
-
-
-       (Safe Distance)
-
-
-Ethernet Cable
-=========================
-
-✔ Reliable Communication
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Electromagnetic_interference
-- https://en.wikipedia.org/wiki/Electromagnetic_interference
-
----
-
 # 🎤 Interview Questions
 
 ### Beginner
