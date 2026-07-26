@@ -135,42 +135,6 @@ Reduce the risk of cable shorts by:
 
 ---
 
-# 📷 Diagram
-
-Save the diagram as:
-
-```text
-images/cable-short.png
-```
-
-Recommended diagram:
-
-```text
-Normal Cable
-
-Wire 1 ------------------------
-Wire 2 ------------------------
-
-✔ Signals remain separate
-
-
-Short Circuit
-
-Wire 1 --------\
-                X
-Wire 2 --------/
-
-✖ Signals interfere
-✖ Communication fails
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Ethernet
-- https://en.wikipedia.org/wiki/Short_circuit
-
----
-
 # 🎤 Interview Questions
 
 ### Beginner
