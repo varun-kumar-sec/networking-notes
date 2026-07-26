@@ -142,40 +142,6 @@ To reduce cable damage:
 
 ---
 
-# 📷 Diagram
-
-Save the diagram as:
-
-```text
-images/damaged-cable.png
-```
-
-Recommended diagram:
-
-```text
-Correct Cable
-
-PC =========================== Switch
-
-✔ Normal Communication
-
-
-Damaged Cable
-
-PC =======///////============= Switch
-
-Broken Internal Wires
-
-✖ Network Failure
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Ethernet
-- https://en.wikipedia.org/wiki/Ethernet
-
----
-
 # 🎤 Interview Questions
 
 ### Beginner
