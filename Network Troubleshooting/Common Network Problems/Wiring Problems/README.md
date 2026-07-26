@@ -145,43 +145,6 @@ Reduce wiring problems by:
 
 ---
 
-# 📷 Diagram
-
-Save the diagram as:
-
-```text
-images/wiring-problems.png
-```
-
-Recommended diagram:
-
-```text
-Proper Wiring
-
-PC =========================== Switch
-
-✔ Correct Wiring
-✔ Reliable Communication
-
-
-Improper Wiring
-
-PC =======X=================== Switch
-
-Incorrect Termination
-Loose Connector
-Damaged Cable
-
-✖ Communication Failure
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Ethernet
-- https://en.wikipedia.org/wiki/TIA/EIA-568
-
----
-
 # 🎤 Interview Questions
 
 ### Beginner
