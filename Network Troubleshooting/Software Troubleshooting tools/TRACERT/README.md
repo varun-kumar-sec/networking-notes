@@ -185,37 +185,7 @@ Tracing route to google.com
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/tracert-troubleshooting.png
-```
-
-Recommended diagram:
-
-```text
-Computer
-   │
-   ▼
-Router 1
-   │
-   ▼
-Router 2
-   │
-   ▼
-Router 3
-   │
-   ▼
-Destination Server
-
-Tracert displays every hop
-between the source and destination.
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Traceroute
-- https://en.wikipedia.org/wiki/Traceroute
+![Tracert](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Troubleshooting/Image/tracert.jpg?raw=true)
 
 ---
 
