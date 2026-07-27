@@ -251,36 +251,7 @@ ipconfig /flushdns
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/ipconfig-troubleshooting.png
-```
-
-Recommended diagram:
-
-```text
-Computer
-
-      │
-
-IPConfig Checks
-
-✔ IP Address
-✔ Subnet Mask
-✔ Default Gateway
-✔ DNS Servers
-✔ DHCP Status
-
-      │
-
-Identify Local Configuration Problems
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/windows-server/administration/windows-commands/ipconfig
-- https://en.wikipedia.org/wiki/Ipconfig
+![Ifconfig](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Troubleshooting/Image/ifconfig.png?raw=true)
 
 ---
 
