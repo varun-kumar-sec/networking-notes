@@ -133,37 +133,7 @@ Whenever a network connection fails or performs poorly, troubleshooting techniqu
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/network-troubleshooting-process.png
-```
-
-Recommended diagram:
-
-```text
-        Network Problem
-               │
-               ▼
-      Identify the Issue
-               │
-               ▼
-      Diagnose the Cause
-               │
-               ▼
-      Apply the Solution
-               │
-               ▼
-      Verify the Result
-               │
-               ▼
-      Network Restored
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Computer_networks
-- https://en.wikipedia.org/wiki/Computer_network
+![Network-Troubleshooting](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Troubleshooting/Image/network-troubleshooting.jpg?raw=true)
 
 ---
 
