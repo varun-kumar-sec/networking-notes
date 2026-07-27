@@ -183,40 +183,7 @@ Following the methodology:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/troubleshooting-methodology.png
-```
-
-Recommended diagram:
-
-```text
-Identify Problem
-        │
-        ▼
-Establish Theory
-        │
-        ▼
-Test Theory
-        │
-        ▼
-Plan Solution
-        │
-        ▼
-Implement Solution
-        │
-        ▼
-Verify Functionality
-        │
-        ▼
-Document Results
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Computer_networks
-- https://en.wikipedia.org/wiki/Network_management
+![Methodology](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Troubleshooting/Image/Methodology.png?raw=true)
 
 ---
 
