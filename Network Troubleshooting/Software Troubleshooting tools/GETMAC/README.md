@@ -161,34 +161,7 @@ D4-3D-7E-4C-91-55   Media Disconnected
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/getmac-troubleshooting.png
-```
-
-Recommended diagram:
-
-```text
-Computer
-
-Network Adapter
-
-MAC Address
-
-00-15-5D-3A-2B-10
-
-Getmac
-
-        │
-
-Displays Physical Address
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/windows-server/administration/windows-commands/getmac
-- https://en.wikipedia.org/wiki/MAC_address
+![GETMAC](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Troubleshooting/Image/Getmac.png?raw=true)
 
 ---
 
