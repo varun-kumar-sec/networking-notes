@@ -263,40 +263,7 @@ TCP    0.0.0.0:443        0.0.0.0:0          LISTENING    2100
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/netstat-troubleshooting.png
-```
-
-Recommended diagram:
-
-```text
-Computer
-
-Applications
-
-│
-▼
-
-Operating System
-
-│
-▼
-
-Netstat Displays
-
-✔ Active Connections
-✔ Listening Ports
-✔ Process IDs
-✔ Routing Table
-✔ Protocol Statistics
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/windows-server/administration/windows-commands/netstat
-- https://en.wikipedia.org/wiki/Netstat
+![Netstat](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Troubleshooting/Image/netsat.png?raw=true)
 
 ---
 
