@@ -140,39 +140,7 @@ Using a cable tester offers several benefits:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/cable-tester.png
-```
-
-Recommended diagram:
-
-```text
-        Main Unit
-      +------------+
-      | Cable Test |
-      +------------+
-            │
-            │ Ethernet Cable
-            │
-      +------------+
-      | Remote Unit|
-      +------------+
-
-Cable Tester checks:
-
-✔ Continuity
-✔ Pinout
-✔ Shorts
-✔ Opens
-✔ Reversed Pairs
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Network_testing_equipment
-- https://en.wikipedia.org/wiki/Cable_tester
+![Cable-Tester](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Troubleshooting/Image/Cable-tester.jpg?raw=true)
 
 ---
 
