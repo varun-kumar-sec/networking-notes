@@ -184,37 +184,7 @@ Bytes=32 Time=18ms TTL=117
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/ping-troubleshooting.png
-```
-
-Recommended diagram:
-
-```text
-Computer A
-     │
-ICMP Echo Request
-     │
-     ▼
-Router
-     │
-     ▼
-Server
-
-     ▲
-ICMP Echo Reply
-     │
-Computer A
-
-✔ Connectivity Verified
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Internet_Control_Message_Protocol
-- https://en.wikipedia.org/wiki/Ping_(networking_utility)
+![Ping](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Troubleshooting/Image/Ping.jpg?raw=true)
 
 ---
 
