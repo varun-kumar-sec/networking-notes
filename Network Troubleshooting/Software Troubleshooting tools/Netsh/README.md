@@ -244,39 +244,7 @@ netsh wlan show profiles
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/netsh-troubleshooting.png
-```
-
-Recommended diagram:
-
-```text
-Administrator
-
-        │
-
-      Netsh
-
-        │
-
-┌──────────────────────┐
-│ TCP/IP Configuration │
-│ Wireless Settings    │
-│ Firewall             │
-│ Network Interfaces   │
-│ Winsock              │
-└──────────────────────┘
-
-Configure and Repair
-Network Components
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/windows-server/administration/windows-commands/netsh
-- https://learn.microsoft.com/windows/win32/nativewifi/netsh-commands-for-wireless-local-area-network-wlan
+![Netsh](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Troubleshooting/Image/Netsh.png?raw=true)
 
 ---
 
