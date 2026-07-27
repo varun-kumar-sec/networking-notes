@@ -170,33 +170,7 @@ It should be used alongside specialized networking tools.
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/multimeter.png
-```
-
-Recommended diagram:
-
-```text
-       +------------------+
-       |   Multimeter     |
-       |                  |
-       |  Voltage (V)     |
-       |  Resistance (Ω)  |
-       |  Continuity      |
-       |  Current (A)     |
-       +------------------+
-            │       │
-         Probe    Probe
-
-Used to test electrical circuits
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Multimeters
-- https://en.wikipedia.org/wiki/Multimeter
+![Multimeter](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Troubleshooting/Image/Multimeter.png?raw=true)
 
 ---
 
