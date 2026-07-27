@@ -112,47 +112,7 @@ When using a cable stripper:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/cable-stripper.png
-```
-
-Recommended diagram:
-
-```text
-Before Stripping
-
-=========================
-Ethernet Cable
-=========================
-
-
-Using Cable Stripper
-
-     Cable Stripper
-           ⭕
-
-=========================
-
-
-After Stripping
-
-=========================
-Outer Jacket Removed
-
-Twisted Pairs Exposed
-
-Blue
-Orange
-Green
-Brown
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Hand_tools
-- https://en.wikipedia.org/wiki/Wire_stripper
+![Cable-Stripper](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Troubleshooting/Image/Cable-Stripper.png?raw=true)
 
 ---
 
