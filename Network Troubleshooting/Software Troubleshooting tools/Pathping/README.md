@@ -193,41 +193,7 @@ Hop  RTT   Lost/Sent = Pct
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/pathping-troubleshooting.png
-```
-
-Recommended diagram:
-
-```text
-Computer
-   │
-   ▼
-Router 1
-   │
-   ▼
-Router 2
-   │
-   ▼
-Router 3
-   │
-   ▼
-Destination
-
-PathPing checks:
-
-✔ Route
-✔ Latency
-✔ Packet Loss
-at every hop
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/windows-server/administration/windows-commands/pathping
-- https://en.wikipedia.org/wiki/PathPing
+![Pathping](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Troubleshooting/Image/Pathping.png?raw=true)
 
 ---
 
