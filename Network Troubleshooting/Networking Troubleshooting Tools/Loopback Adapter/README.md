@@ -98,35 +98,7 @@ Using a loopback adapter provides several benefits:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/loopback-adapter.png
-```
-
-Recommended diagram:
-
-```text
-Network Interface Card (NIC)
-
-      +----------------+
-      |      NIC       |
-      +----------------+
-             │
-             │
-     Loopback Adapter
-             │
-             ▼
-      Signals Return
-      Back to the NIC
-
-✔ Interface Tested
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Network_testing_equipment
-- https://en.wikipedia.org/wiki/Loopback
+![Loopback-Adapter](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Troubleshooting/Image/Loopback-adapter.jpg?raw=true)
 
 ---
 
