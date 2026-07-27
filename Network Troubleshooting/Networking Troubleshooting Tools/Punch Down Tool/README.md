@@ -113,38 +113,7 @@ When using a punch down tool:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/punch-down-tool.png
-```
-
-Recommended diagram:
-
-```text
-Network Cable
-
-      │
-      ▼
-
-+----------------------+
-| Keystone Jack / IDC  |
-+----------------------+
-
-      ▲
-      │
- Punch Down Tool
-
-Wire inserted
-Excess wire trimmed
-
-✔ Secure Connection
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Structured_cabling
-- https://en.wikipedia.org/wiki/Insulation-displacement_connector
+![Punch-Down-Tool](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Troubleshooting/Image/Punch-down-tool.jpg?raw=true)
 
 ---
 
