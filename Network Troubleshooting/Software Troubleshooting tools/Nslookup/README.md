@@ -201,34 +201,7 @@ nslookup 8.8.8.8
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/nslookup-troubleshooting.png
-```
-
-Recommended diagram:
-
-```text
-Computer
-     │
-DNS Query
-     │
-     ▼
-DNS Server
-     │
-Returns IP Address
-     │
-     ▼
-Website
-
-Nslookup verifies DNS resolution.
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/windows-server/administration/windows-commands/nslookup
-- https://en.wikipedia.org/wiki/Nslookup
+![Nslookup](https://github.com/varun-kumar-sec/networking-notes/blob/main/Network%20Troubleshooting/Image/nslookup.jpg?raw=true)
 
 ---
 
