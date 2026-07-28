@@ -142,36 +142,7 @@ When using TeamViewer:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/teamviewer-connection.png
-```
-
-Recommended diagram:
-
-```text
-       Client Computer
-
-              │
-     TeamViewer Connection
-              │
-              ▼
-
-        Internet / LAN
-
-              │
-              ▼
-
-        Host Computer
-
-  Remote Desktop Session
-```
-
-Suggested sources:
-
-- https://www.teamviewer.com/
-- https://en.wikipedia.org/wiki/TeamViewer
+![Teamviewer](https://github.com/varun-kumar-sec/networking-notes/blob/main/Remote%20Access/Image/Teamviewer.png?raw=true)
 
 ---
 
