@@ -137,36 +137,7 @@ To use AnyDesk securely:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/anydesk-connection.png
-```
-
-Recommended diagram:
-
-```text
-        Client Computer
-
-              │
-      AnyDesk Connection
-              │
-              ▼
-
-        Internet / LAN
-
-              │
-              ▼
-
-         Host Computer
-
- Remote Desktop Session
-```
-
-Suggested sources:
-
-- https://support.anydesk.com/
-- https://en.wikipedia.org/wiki/AnyDesk
+![Anydesk](https://github.com/varun-kumar-sec/networking-notes/blob/main/Remote%20Access/Image/Anydesk.png?raw=true)
 
 ---
 
