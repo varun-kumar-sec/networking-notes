@@ -152,32 +152,7 @@ To maximize the benefits of remote access:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/benefits-of-remote-access.png
-```
-
-Recommended diagram:
-
-```text
-              Remote Access
-
-                     │
-     ┌───────────────┼───────────────┐
-     │               │               │
-     ▼               ▼               ▼
- Work Anywhere   Remote Support   Server Management
-
-     ▼               ▼               ▼
-
-Higher Productivity  Faster Support  Lower Costs
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Remote_desktop
-- https://en.wikipedia.org/wiki/Remote_desktop_software
+![Benefits-of-Remote-Access](https://github.com/varun-kumar-sec/networking-notes/blob/main/Remote%20Access/Image/Benefits-of-remote-access.png?raw=true)
 
 ---
 
