@@ -217,43 +217,7 @@ When enabling Remote Desktop:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/enable-rdp-windows.png
-```
-
-Recommended diagram:
-
-```text
-Windows Computer
-
-        │
-        ▼
-
-Enable Remote Desktop
-
-        │
-        ▼
-
-Configure Firewall
-(TCP Port 3389)
-
-        │
-        ▼
-
-Add Authorized Users
-
-        │
-        ▼
-
-Remote Desktop Ready
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/windows-server/remote/remote-desktop-services/
-- https://learn.microsoft.com/windows/client-management/
+![Enable-RDP-in-windows](https://github.com/varun-kumar-sec/networking-notes/blob/main/Remote%20Access/Image/Enable-RDP-in-windows.png?raw=true)
 
 ---
 
