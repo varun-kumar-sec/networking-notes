@@ -172,35 +172,7 @@ When configuring RDP:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/rdp-configuration.png
-```
-
-Recommended diagram:
-
-```text
-Host Computer
-│
-├── Remote Desktop Enabled
-├── Firewall Allows Port 3389
-├── Authorized Users Configured
-└── Connected to Network
-          │
-          ▼
-Remote Desktop Client
-          │
-      Authenticates
-          │
-          ▼
-Remote Desktop Session Established
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/windows-server/remote/remote-desktop-services/
-- https://learn.microsoft.com/windows/client-management/
+![RDP-Configration](https://github.com/varun-kumar-sec/networking-notes/blob/main/Remote%20Access/Image/RDP-Configuration.png?raw=true)
 
 ---
 
