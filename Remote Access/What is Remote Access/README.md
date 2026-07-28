@@ -113,36 +113,7 @@ Remote access offers several benefits:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/what-is-remote-access.png
-```
-
-Recommended diagram:
-
-```text
-        Internet / Network
-               │
-               │
-      ┌────────▼────────┐
-      │  Host Computer  │
-      │ (Remote Device) │
-      └────────▲────────┘
-               │
-        Remote Access
-         Connection
-               │
-      ┌────────▼────────┐
-      │ Client Computer │
-      │     (User)      │
-      └─────────────────┘
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Remote_desktop
-- https://en.wikipedia.org/wiki/Remote_desktop_software
+![what-is-remote-access](https://github.com/varun-kumar-sec/networking-notes/blob/main/Remote%20Access/Image/What-is-Remote-Access.png?raw=true)
 
 ---
 
