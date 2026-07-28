@@ -183,35 +183,7 @@ RDP also has some limitations:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/rdp-working.png
-```
-
-Recommended diagram:
-
-```text
-+-------------------+
-| Client Computer   |
-| Remote Desktop    |
-+---------+---------+
-          │
-     TCP Port 3389
-          │
-    Internet / LAN
-          │
-+---------▼---------+
-| Host Computer     |
-| Windows with RDP  |
-| Enabled           |
-+-------------------+
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/windows-server/remote/remote-desktop-services/
-- https://en.wikipedia.org/wiki/Remote_Desktop_Protocol
+![RDP-working](https://github.com/varun-kumar-sec/networking-notes/blob/main/Remote%20Access/Image/RDP-working.png?raw=true)
 
 ---
 
