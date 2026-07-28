@@ -177,42 +177,7 @@ These measures further reduce the likelihood of successful attacks.
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/rdp-security.png
-```
-
-Recommended diagram:
-
-```text
-Remote User
-      │
-      ▼
-+----------------------+
-| Strong Password      |
-| Multi-Factor Auth    |
-+----------+-----------+
-           │
-           ▼
-      VPN (Optional)
-           │
-           ▼
-Windows Firewall
-           │
-           ▼
-Host Computer
-      (RDP Enabled)
-
-Regular Updates
-Monitoring
-Limited User Access
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/windows-server/remote/remote-desktop-services/
-- https://learn.microsoft.com/windows/security/
+![Remote-security](https://github.com/varun-kumar-sec/networking-notes/blob/main/Remote%20Access/Image/Remote-Security.png?raw=true)
 
 ---
 
