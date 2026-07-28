@@ -1,13 +1,4 @@
 # Remote Access Tools
-
-> **Module:** Remote Access  
-> **Section:** Remote Access Tools  
-> **Difficulty:** Beginner  
-> **Prerequisites:** What is Remote Access?  
-> **Estimated Reading Time:** 6–8 Minutes
-
----
-
 # 📖 Overview
 
 Remote access tools are software applications that allow users to connect to, control, and manage computers from another location over a local network or the Internet.
