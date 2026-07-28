@@ -1,12 +1,4 @@
 # Working with Network Devices
-
-> **Module:** Computer Networking  
-> **Level:** Beginner  
-> **Prerequisites:** Network Devices, IP Addressing, Wireless Networking, Network Troubleshooting  
-> **Estimated Completion Time:** 2–3 Hours
-
----
-
 # 📖 Overview
 
 Network devices are essential components of every computer network. They enable communication between computers, servers, printers, mobile devices, and the Internet. To ensure these devices operate efficiently and securely, they must be properly installed, configured, and maintained.
