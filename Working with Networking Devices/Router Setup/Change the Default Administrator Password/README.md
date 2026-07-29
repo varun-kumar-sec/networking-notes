@@ -171,48 +171,7 @@ When managing router passwords:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/change-admin-password.png
-```
-
-Recommended diagram:
-
-```text
-Administrator
-
-      │
-      ▼
-
-Log in to Router
-
-      │
-      ▼
-
-Administration Settings
-
-      │
-      ▼
-
-Enter Strong Password
-
-      │
-      ▼
-
-Save Configuration
-
-      │
-      ▼
-
-Secure Router
-```
-
-Suggested sources:
-
-- https://www.cisco.com/
-- https://support.google.com/
-- https://www.tp-link.com/
+![change-the-default-administrator](https://github.com/varun-kumar-sec/networking-notes/blob/main/Working%20with%20Networking%20Devices/Image/Change-the-default-administrator-password.png?raw=true)
 
 ---
 
