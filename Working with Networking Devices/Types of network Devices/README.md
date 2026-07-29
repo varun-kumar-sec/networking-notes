@@ -134,40 +134,7 @@ A typical home network may include:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/types-of-network-devices.png
-```
-
-Recommended diagram:
-
-```text
-                 Internet
-                     │
-                 +---------+
-                 | Modem   |
-                 +----+----+
-                      │
-                 +----▼----+
-                 | Router  |
-                 +----+----+
-                      │
-          +-----------+-----------+
-          │                       │
-     +----▼----+             +----▼----+
-     | Switch  |             |   WAP   |
-     +----+----+             +----+----+
-          │                       │
-      PCs, Servers          Wireless Devices
-
-        Firewall protects the network
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Computer_network_diagrams
-- https://en.wikipedia.org/wiki/Computer_network
+![Types-of-network-devices](https://github.com/varun-kumar-sec/networking-notes/blob/main/Working%20with%20Networking%20Devices/Image/Types-of-network-devices.png?raw=true)
 
 ---
 
