@@ -183,41 +183,7 @@ After completing the configuration:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/save-and-test-configuration.png
-```
-
-Recommended diagram:
-
-```text
-Configure Router
-        │
-        ▼
-Save / Apply Settings
-        │
-        ▼
-Restart (if required)
-        │
-        ▼
-Test Internet Connection
-        │
-        ▼
-Test Wi-Fi Connection
-        │
-        ▼
-Verify IP Address
-        │
-        ▼
-Network Ready ✔
-```
-
-Suggested sources:
-
-- https://www.cisco.com/
-- https://support.google.com/
-- https://www.tp-link.com/
+![Save-and-test-configuration](https://github.com/varun-kumar-sec/networking-notes/blob/main/Working%20with%20Networking%20Devices/Image/Save-and-test-configuration.png?raw=true)
 
 ---
 
