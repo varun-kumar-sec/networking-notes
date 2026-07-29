@@ -120,37 +120,7 @@ Network administrators regularly configure and maintain devices to keep these ne
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/working-with-network-devices.png
-```
-
-Recommended diagram:
-
-```text
-                 Internet
-                     │
-                     ▼
-                 +---------+
-                 | Router  |
-                 +----+----+
-                      │
-              +-------+-------+
-              │               │
-         +---------+     +---------+
-         | Switch  |     |   WAP   |
-         +----+----+     +----+----+
-              │               │
-      +-------+-------+   Wireless Devices
-      │       │       │
-     PC    Printer  Server
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Computer_network_diagrams
-- https://en.wikipedia.org/wiki/Computer_network
+![Working-with-networking-devices](https://github.com/varun-kumar-sec/networking-notes/blob/main/Working%20with%20Networking%20Devices/Image/Working-with-networking-devives.png?raw=true)
 
 ---
 
