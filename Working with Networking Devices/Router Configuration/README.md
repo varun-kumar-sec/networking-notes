@@ -156,35 +156,7 @@ When configuring a router:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/router-configuration.png
-```
-
-Recommended diagram:
-
-```text
-             Internet
-                 │
-                 ▼
-         +----------------+
-         |     Router     |
-         +----------------+
-                 │
-     Configure Settings
-                 │
- ┌───────────────┼───────────────┐
- │               │               │
- ▼               ▼               ▼
-Internet      LAN/DHCP      Wi-Fi & Security
-Settings       Settings        Settings
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/
-- https://www.cisco.com/
+![Router-Configuration](https://github.com/varun-kumar-sec/networking-notes/blob/main/Working%20with%20Networking%20Devices/Image/Router-Configuration.png?raw=true)
 
 ---
 
