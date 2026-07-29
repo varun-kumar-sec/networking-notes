@@ -192,38 +192,7 @@ When configuring Wi-Fi:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/configure-wifi-settings.png
-```
-
-Recommended diagram:
-
-```text
-           Router
-
-              │
-      Configure Wi-Fi
-
-              │
-    ┌─────────┼─────────┐
-    ▼         ▼         ▼
-  SSID    Security   Password
-            WPA3
-
-              │
-              ▼
-
-      Wireless Devices
- Laptop • Phone • Tablet
-```
-
-Suggested sources:
-
-- https://www.cisco.com/
-- https://support.google.com/
-- https://www.tp-link.com/
+![configure-wifi-setting](https://github.com/varun-kumar-sec/networking-notes/blob/main/Working%20with%20Networking%20Devices/Image/Configure-wifi-setting.png?raw=true)
 
 ---
 
