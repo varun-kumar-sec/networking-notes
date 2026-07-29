@@ -158,43 +158,7 @@ Result:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/router-placement.png
-```
-
-Recommended diagram:
-
-```text
-             Good Placement
-
-        ┌─────────────────────┐
-        │                     │
-        │        Router       │
-        │          📶          │
-        │                     │
-        └─────────────────────┘
-
-      Signal reaches all rooms
-
-
-             Poor Placement
-
- ┌────────────────────────────┐
- │ Router                     │
- │ 📶                         │
- │ [Cabinet]                  │
- │                            │
- │                  Weak Wi-Fi │
- └────────────────────────────┘
-```
-
-Suggested sources:
-
-- https://www.cisco.com/
-- https://support.google.com/wifi/
-- https://www.tp-link.com/
+![Decide-where-to-place-the-router](https://github.com/varun-kumar-sec/networking-notes/blob/main/Working%20with%20Networking%20Devices/Image/Decide-where-to-place-the-router.png?raw=true)
 
 ---
 
