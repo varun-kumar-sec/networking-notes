@@ -171,39 +171,7 @@ If everything is configured correctly but Internet access is unavailable, check 
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/connect-router-to-internet.png
-```
-
-Recommended diagram:
-
-```text
-        Internet
-            │
-            ▼
-       +-----------+
-       |   Modem   |
-       +-----+-----+
-             │
-      Ethernet Cable
-             │
-             ▼
-       +-----------+
-       |  Router   |
-       +-----+-----+
-             │
-     ┌───────┼────────┐
-     ▼       ▼        ▼
-   PC      Laptop   Smartphone
-```
-
-Suggested sources:
-
-- https://www.cisco.com/
-- https://support.google.com/
-- https://www.tp-link.com/
+![Connect-to-the-internet](https://github.com/varun-kumar-sec/networking-notes/blob/main/Working%20with%20Networking%20Devices/Image/Connect-to-the-internet.png?raw=true)
 
 ---
 
