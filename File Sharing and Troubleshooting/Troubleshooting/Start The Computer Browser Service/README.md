@@ -1,13 +1,4 @@
 # Start the Computer Browser Service in Windows
-
-> **Module:** File Sharing and Troubleshooting  
-> **Section:** Troubleshooting  
-> **Difficulty:** Beginner  
-> **Prerequisites:** Troubleshooting File Sharing Issues  
-> **Estimated Reading Time:** 7–9 Minutes
-
----
-
 # 📖 Overview
 
 The **Computer Browser** service was a Windows networking service that maintained a list of computers and shared resources available on a local network. It helped users browse computers through the **Network** section of File Explorer.
