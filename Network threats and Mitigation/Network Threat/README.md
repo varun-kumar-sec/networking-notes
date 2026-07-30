@@ -1,157 +1,73 @@
 # Network Threats
 # 📖 Overview
 
-A **network threat** is any potential danger that can compromise the security, availability, confidentiality, or integrity of a computer network and its resources.
+A **network threat** is any potential danger that can compromise the security, operation, or resources of a computer network. Network threats can affect devices, systems, applications, users, and data.
 
-Network threats can originate from malicious attackers, compromised devices, software vulnerabilities, misconfigurations, or even accidental actions by users.
+Threats may originate from external attackers, internal users, malicious software, vulnerable systems, or accidental human actions.
 
-Understanding network threats is an important part of network security because identifying potential threats allows organizations to implement appropriate security controls and reduce risk.
+Understanding network threats is an important part of network security because identifying potential threats helps organizations select appropriate security controls and reduce security risks.
 
 ---
 
 # 🎯 Learning Objectives
 
-After completing this topic, you will be able to:
+After completing this section, you will be able to:
 
 - Understand what a network threat is.
 - Identify common sources of network threats.
-- Explain how network threats can affect an organization.
+- Understand different types of network threats.
+- Differentiate between internal and external threats.
 - Differentiate between intentional and accidental threats.
-- Understand the relationship between threats and network security.
-- Recognize the importance of threat prevention and mitigation.
+- Understand how network threats affect the CIA triad.
+- Understand the basic purpose of threat mitigation.
 
 ---
 
-# 📑 Table of Contents
+# 📚 Topics Covered
 
-- What is a Network Threat?
+This section includes the following topics:
+
+- Definition of Network Threats
 - Sources of Network Threats
-- Types of Network Threats
+- Common Network Threats
 - Internal and External Threats
 - Intentional and Accidental Threats
 - Impact of Network Threats
-- Threat vs Attack
 - Threats and the CIA Triad
 - Basic Threat Mitigation
-- Real-World Examples
-- Diagram
-- Interview Questions
-- Key Takeaways
-- References
+
+Each topic introduces an important concept used to understand and protect computer networks from security threats.
 
 ---
 
-# 🌐 What is a Network Threat?
+# 🌐 Sources of Network Threats
 
-A **network threat** is a potential event, condition, or activity that could negatively affect a network, its devices, its users, or the information transmitted through it.
+Network threats can come from different sources:
 
-A threat does not necessarily mean that an attack has already occurred.
-
-For example:
-
-> An unpatched server may represent a **security threat** because an attacker could potentially exploit its vulnerability.
-
-Threats can target:
-
-- Routers
-- Switches
-- Servers
-- Workstations
-- Wireless networks
-- Network services
-- Applications
-- User accounts
-- Data
+- **External Attackers** – Individuals or groups attempting to compromise systems from outside the network.
+- **Internal Users** – Authorized users who intentionally or accidentally cause security problems.
+- **Malware** – Malicious software such as viruses, worms, ransomware, and spyware.
+- **Vulnerable Systems** – Unpatched or incorrectly configured systems that can be exploited.
+- **Human Error** – Accidental actions such as incorrect configurations or improper handling of sensitive information.
+- **Compromised Devices** – Network devices or computers that have already been infected or controlled by an attacker.
 
 ---
 
-# 👥 Sources of Network Threats
+# ⚠️ Common Network Threats
 
-Network threats can come from several sources.
+Common network threats include:
 
-## 1. External Attackers
-
-These are individuals or groups outside the organization who attempt to gain unauthorized access.
-
-Examples:
-
-- Hackers
-- Cybercriminal groups
-- Attackers performing reconnaissance
-- Botnet operators
-
----
-
-## 2. Internal Users
-
-Threats can also originate from people who already have access to the organization's network.
-
-Examples:
-
-- Malicious employees
-- Disgruntled users
-- Compromised employee accounts
-- Users who intentionally misuse their privileges
-
----
-
-## 3. Malware
-
-Malicious software can infect computers and spread across networks.
-
-Examples include:
-
-- Viruses
-- Worms
-- Trojans
-- Ransomware
-- Spyware
-
----
-
-## 4. Vulnerable Systems
-
-Outdated or improperly configured systems can create opportunities for attackers.
-
-Examples:
-
-- Unpatched operating systems
-- Weak passwords
-- Open network ports
-- Misconfigured firewalls
-- Unsupported software
-
----
-
-## 5. Human Error
-
-Not every network threat is caused intentionally.
-
-Examples:
-
-- Accidentally deleting important files.
-- Sharing confidential information with the wrong person.
-- Misconfiguring a router.
-- Using weak passwords.
-- Connecting an unauthorized device to the network.
-
----
-
-# 🧩 Types of Network Threats
-
-Network threats can be broadly classified into several categories.
-
-| Threat Category | Description | Example |
-|---|---|---|
-| Malware | Malicious software that damages or compromises systems | Ransomware |
-| Unauthorized Access | Accessing systems without permission | Stolen credentials |
-| Denial of Service | Attempting to make a service unavailable | DDoS |
-| Eavesdropping | Intercepting network communications | Packet sniffing |
-| Social Engineering | Manipulating users into revealing information | Phishing |
-| Spoofing | Pretending to be another device or identity | IP spoofing |
-| Insider Threat | Threat originating from an authorized user | Malicious employee |
-| Physical Threat | Physical damage or unauthorized access | Device theft |
-| Configuration Threat | Security problems caused by incorrect settings | Open firewall port |
+| Threat | Description |
+|---|---|
+| Malware | Malicious software that can damage or compromise systems. |
+| Unauthorized Access | Accessing systems or resources without permission. |
+| DoS/DDoS | Attempts to make network services unavailable. |
+| Eavesdropping | Intercepting network communications. |
+| Spoofing | Pretending to be a trusted device, user, or service. |
+| Social Engineering | Manipulating users into revealing information or performing unsafe actions. |
+| Insider Threat | Threats caused by authorized users. |
+| Misconfiguration | Incorrect network or security settings that create weaknesses. |
+| Physical Threat | Physical events or actions that damage or compromise network infrastructure. |
 
 ---
 
@@ -159,24 +75,145 @@ Network threats can be broadly classified into several categories.
 
 ## External Threats
 
-External threats originate outside the organization's network.
+External threats originate outside an organization's network.
 
 Examples:
 
-- Internet-based attacks
-- Phishing campaigns
-- Remote exploitation
+- Hacking attempts
+- Malware attacks
+- Phishing
 - DDoS attacks
-- Malware delivered through external sources
+- Remote exploitation
 
-```text
-Internet
-   │
-   ▼
-Attacker
-   │
-   ▼
-Firewall
-   │
-   ▼
-Internal Network
+## Internal Threats
+
+Internal threats originate from within the organization or trusted environment.
+
+Examples:
+
+- Malicious employees
+- Compromised user accounts
+- Unauthorized devices
+- Accidental configuration changes
+- Improper use of network resources
+
+> **Note:** An internal threat is not always intentional. A legitimate user can accidentally cause a security incident.
+
+---
+
+# 🎯 Intentional vs Accidental Threats
+
+### Intentional Threats
+
+These are deliberately created to compromise systems, networks, or information.
+
+Examples:
+
+- Hacking
+- Malware deployment
+- Password attacks
+- Data theft
+- DDoS attacks
+
+### Accidental Threats
+
+These occur without malicious intent.
+
+Examples:
+
+- Incorrect network configuration
+- Accidental data deletion
+- Sending sensitive information to the wrong person
+- Using weak passwords
+- Connecting an infected device
+
+---
+
+# 🔐 Network Threats and the CIA Triad
+
+Network threats can affect the three primary security objectives:
+
+- **Confidentiality** – Preventing unauthorized access to information.
+- **Integrity** – Preventing unauthorized modification or corruption of information.
+- **Availability** – Ensuring systems and network resources remain accessible to authorized users.
+
+### Examples
+
+| CIA Component | Possible Threat |
+|---|---|
+| Confidentiality | Data interception or information theft |
+| Integrity | Unauthorized modification of data |
+| Availability | DoS/DDoS attack or service disruption |
+
+---
+
+# 🛡️ Basic Threat Mitigation
+
+Organizations can reduce the impact of network threats by using security controls such as:
+
+- Firewalls
+- Antivirus and endpoint protection
+- Strong authentication
+- Access control
+- Encryption
+- Network segmentation
+- Security updates and patching
+- IDS/IPS
+- Regular backups
+- Security awareness training
+
+Using multiple security controls together provides **defense in depth** and reduces dependence on a single security mechanism.
+
+---
+
+# 💼 Real-World Applications
+
+Understanding network threats is important in:
+
+- Corporate networks
+- Home networks
+- Schools and universities
+- Data centers
+- Cloud environments
+- IT support environments
+- Network administration
+- Cybersecurity operations
+
+Network administrators and IT support professionals use threat awareness to identify security problems and apply appropriate protections.
+
+---
+
+# 🛠️ Skills You'll Gain
+
+After completing this section, you'll be able to:
+
+- Identify common network threats.
+- Recognize internal and external threats.
+- Understand intentional and accidental security threats.
+- Identify how threats can affect confidentiality, integrity, and availability.
+- Recognize common sources of network threats.
+- Understand basic methods used to reduce network security risks.
+
+---
+
+# 📌 Key Takeaways
+
+- A **network threat** is a potential danger to a network, system, device, user, or data.
+- Threats can originate from external attackers, internal users, malware, vulnerable systems, compromised devices, or human error.
+- Network threats can be intentional or accidental.
+- Common threats include malware, unauthorized access, DoS/DDoS, eavesdropping, spoofing, social engineering, insider threats, and misconfiguration.
+- Network threats can affect **Confidentiality, Integrity, and Availability (CIA)**.
+- Security controls such as firewalls, authentication, encryption, patching, and network segmentation help reduce network security risks.
+- Using multiple layers of security provides better protection against network threats.
+
+---
+
+# 📚 References
+
+- NIST Cybersecurity Framework
+- Microsoft Learn – Security Documentation
+- Cisco Networking Academy (NetAcad)
+- CompTIA Network+
+- CompTIA Security+
+- Andrew S. Tanenbaum – *Computer Networks*
+- Behrouz A. Forouzan – *Data Communications and Networking*
