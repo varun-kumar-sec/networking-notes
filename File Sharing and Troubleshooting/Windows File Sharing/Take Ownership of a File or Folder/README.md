@@ -227,43 +227,7 @@ When taking ownership:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/take-file-ownership.png
-```
-
-Recommended diagram:
-
-```text
-Right-click File/Folder
-        │
-        ▼
-    Properties
-        │
-        ▼
-    Security Tab
-        │
-        ▼
-Advanced Security Settings
-        │
-        ▼
-Owner → Change
-        │
-        ▼
-Select New Owner
-        │
-        ▼
-Apply Changes
-        │
-        ▼
-New Owner Assigned
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/windows/
-- https://support.microsoft.com/
+![take-ownership-of-file-or-folder](https://github.com/varun-kumar-sec/networking-notes/blob/main/File%20Sharing%20and%20Troubleshooting/Image/Take-ownership-of-file-and-folder.png?raw=true)
 
 ---
 
