@@ -156,35 +156,7 @@ Different file sharing methods are used in different environments:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/types-of-file-sharing.png
-```
-
-Recommended diagram:
-
-```text
-                   File Sharing
-                        │
-     ┌──────────────────┼──────────────────┐
-     │                  │                  │
-     ▼                  ▼                  ▼
- Local Sharing     Network Sharing    Cloud Sharing
-     │                  │                  │
- USB Drive         Shared Folder      Google Drive
- External HDD      SMB / NFS          OneDrive
-                                         │
-                                         ▼
-                                   FTP File Sharing
-                                   Client ↔ Server
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/
-- https://www.cisco.com/
-- https://datatracker.ietf.org/doc/html/rfc959
+![Types-of-file-sharing](https://github.com/varun-kumar-sec/networking-notes/blob/main/File%20Sharing%20and%20Troubleshooting/Image/Types-of-file-sharing.png?raw=true)
 
 ---
 
