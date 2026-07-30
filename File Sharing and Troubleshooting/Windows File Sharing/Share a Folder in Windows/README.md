@@ -219,43 +219,7 @@ When sharing folders:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/share-folder-windows.png
-```
-
-Recommended diagram:
-
-```text
-Right-click Folder
-        │
-        ▼
-    Properties
-        │
-        ▼
-    Sharing Tab
-        │
-        ▼
-Advanced Sharing
-        │
-        ▼
-Share this Folder
-        │
-        ▼
-Configure Permissions
-        │
-        ▼
-Apply & OK
-        │
-        ▼
-Folder Available on Network
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/windows/
-- https://support.microsoft.com/
+![share-a-folder-in-windows](https://github.com/varun-kumar-sec/networking-notes/blob/main/File%20Sharing%20and%20Troubleshooting/Image/share-a-folder-in-windows.png?raw=true)
 
 ---
 
