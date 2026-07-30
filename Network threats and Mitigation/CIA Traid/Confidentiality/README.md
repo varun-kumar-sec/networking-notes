@@ -57,7 +57,7 @@ Authorized  Unauthorized
 
 ---
 
-⚠️ Threats to Confidentiality
+# ⚠️ Threats to Confidentiality
 
 Common threats include:
 
@@ -75,7 +75,7 @@ Lost or stolen devices
 
 ---
 
-🛡️ Methods of Protecting Confidentiality
+# 🛡️ Methods of Protecting Confidentiality
 
 Security Control	Purpose
 Authentication	Verifies the identity of users or devices.
@@ -87,7 +87,7 @@ Network Segmentation	Limits access between network areas.
 Secure Protocols	Protects network communication, such as HTTPS and SSH.
 Data Classification	Identifies information according to its sensitivity.
 
-🌐 Confidentiality in Network Communication
+# 🌐 Confidentiality in Network Communication
 
 Data transmitted across a network can be intercepted if it is not properly protected.
 
@@ -111,7 +111,7 @@ Encryption helps protect sensitive information while it is being transmitted.
 
 ---
 
-💼 Real-World Applications
+# 💼 Real-World Applications
 
 Confidentiality is important when protecting:
 
@@ -124,7 +124,10 @@ Business documents
 Authentication credentials
 Network communications
 Government information
-🛠️ Skills You'll Gain
+
+---
+
+# 🛠️ Skills You'll Gain
 
 After completing this section, you'll be able to:
 
@@ -137,7 +140,7 @@ Identify situations where confidentiality is important.
 
 ---
 
-📌 Key Takeaways
+# 📌 Key Takeaways
 
 Confidentiality ensures that information is accessible only to authorized users and systems.
 It is one of the three components of the CIA Triad.
@@ -148,7 +151,7 @@ Confidentiality is essential for protecting personal, financial, medical, busine
 
 ---
 
-📚 References
+# 📚 References
 
 NIST Cybersecurity Framework
 NIST Special Publication 800-53 – Security and Privacy Controls
