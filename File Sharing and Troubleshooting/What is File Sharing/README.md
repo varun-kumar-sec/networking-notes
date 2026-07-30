@@ -151,32 +151,7 @@ Proper security helps prevent unauthorized access and accidental data loss.
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/file-sharing-overview.png
-```
-
-Recommended diagram:
-
-```text
-           Shared Folder
-          +-------------+
-          | Project Docs|
-          +------+------+
-                 │
-     ┌───────────┼───────────┐
-     ▼           ▼           ▼
- Computer A  Computer B  Laptop
-     │           │           │
-     └──── Access Shared Files ────┘
-```
-
-Suggested sources:
-
-- https://commons.wikimedia.org/wiki/Category:Computer_network_diagrams
-- https://learn.microsoft.com/
-- https://www.cisco.com/
+![What-is-file-sharing](https://github.com/varun-kumar-sec/networking-notes/blob/main/File%20Sharing%20and%20Troubleshooting/Image/What-is-file-sharing.png?raw=true)
 
 ---
 
