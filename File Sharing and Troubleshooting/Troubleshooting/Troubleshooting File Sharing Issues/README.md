@@ -225,44 +225,7 @@ When troubleshooting file sharing:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/troubleshoot-file-sharing.png
-```
-
-Recommended diagram:
-
-```text
-Unable to Access Shared Folder
-             │
-             ▼
-Check Network Connection
-             │
-             ▼
-Verify Network Discovery
-             │
-             ▼
-Check File Sharing Settings
-             │
-             ▼
-Verify Permissions
-             │
-             ▼
-Check Firewall & Services
-             │
-             ▼
-Test Shared Folder Access
-             │
-             ▼
-Problem Resolved ✔
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/windows/
-- https://support.microsoft.com/
-- https://www.cisco.com/
+![Troubleshooting-file-sharing-issue](https://github.com/varun-kumar-sec/networking-notes/blob/main/File%20Sharing%20and%20Troubleshooting/Image/Troubleshooting-file-sharing-issue.png?raw=true)
 
 ---
 
