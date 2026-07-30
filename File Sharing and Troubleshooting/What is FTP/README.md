@@ -285,38 +285,7 @@ Modern environments often prefer **SFTP**, **FTPS**, HTTPS-based transfers, or c
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/ftp-client-server.png
-```
-
-Recommended diagram:
-
-```text
-                 FTP Connection
-
-┌─────────────────┐
-│   FTP Client    │
-│                 │
-│ FileZilla       │
-│ WinSCP          │
-└────────┬────────┘
-         │
-         │ TCP Control
-         │
-         ▼
-┌─────────────────┐
-│   FTP Server    │
-│                 │
-│ Files           │
-│ Directories     │
-└────────┬────────┘
-         │
-         │ Data Transfer
-         ▼
-   Upload / Download
-```
+![what-is-FTP](https://github.com/varun-kumar-sec/networking-notes/blob/main/File%20Sharing%20and%20Troubleshooting/Image/FTP.png?raw=true)
 
 ---
 
