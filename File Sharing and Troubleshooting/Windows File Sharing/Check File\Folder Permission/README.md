@@ -178,39 +178,7 @@ When managing permissions:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/check-folder-permissions.png
-```
-
-Recommended diagram:
-
-```text
-Right-click File/Folder
-        │
-        ▼
-    Properties
-        │
-        ▼
-    Security Tab
-        │
-        ▼
-Select User/Group
-        │
-        ▼
-View Permissions
-
-Read
-Write
-Modify
-Full Control
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/windows/
-- https://support.microsoft.com/
+![check-file-folder-permission](https://github.com/varun-kumar-sec/networking-notes/blob/main/File%20Sharing%20and%20Troubleshooting/Image/Check%20file%20folder%20permission.png?raw=true)
 
 ---
 
