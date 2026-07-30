@@ -165,34 +165,7 @@ Following a structured troubleshooting process:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/troubleshooting-process.png
-```
-
-Recommended diagram:
-
-```text
-Identify Problem
-        │
-        ▼
-Determine Cause
-        │
-        ▼
-Apply Solution
-        │
-        ▼
-Test Solution
-        │
-        ▼
-Document Results
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/
-- https://www.cisco.com/
+![what-is-troubleshooting](https://github.com/varun-kumar-sec/networking-notes/blob/main/File%20Sharing%20and%20Troubleshooting/Image/What-is-Troubleshooting.png?raw=true)
 
 ---
 
