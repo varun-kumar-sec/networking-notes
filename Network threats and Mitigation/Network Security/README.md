@@ -1,13 +1,4 @@
 # Network Security
-
-> **Module:** Network Threats and Mitigation  
-> **Section:** Network Security  
-> **Difficulty:** Beginner  
-> **Prerequisites:** Network Threats  
-> **Estimated Reading Time:** 5–7 Minutes
-
----
-
 # 📖 Overview
 
 **Network security** is the practice of protecting computer networks, devices, systems, applications, and data from unauthorized access, misuse, attacks, and other security threats.
