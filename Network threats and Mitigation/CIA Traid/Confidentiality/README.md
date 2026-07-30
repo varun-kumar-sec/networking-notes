@@ -1,13 +1,4 @@
 # Confidentiality
-
-> **Module:** Network Threats and Mitigation  
-> **Section:** CIA Triad – Confidentiality  
-> **Difficulty:** Beginner  
-> **Prerequisites:** Network Security  
-> **Estimated Reading Time:** 5–7 Minutes
-
----
-
 # 📖 Overview
 
 **Confidentiality** is the security principle of ensuring that information is accessible only to **authorized users, devices, or systems**. It protects sensitive information from unauthorized access, disclosure, copying, or interception.
