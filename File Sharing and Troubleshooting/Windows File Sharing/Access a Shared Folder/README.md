@@ -187,44 +187,7 @@ When accessing shared folders:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/access-shared-folder.png
-```
-
-Recommended diagram:
-
-```text
-Computer A
-(Shared Folder)
-      │
-      │  Shared over LAN
-      ▼
-=============================
-        Local Network
-=============================
-      ▲
-      │
-Computer B
-
-Open File Explorer
-
-\\Office-PC
-
-or
-
-\\192.168.1.20
-
-        ▼
-
-Access Shared Folder
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/windows/
-- https://support.microsoft.com/
+![Access-a-shared-folder](https://github.com/varun-kumar-sec/networking-notes/blob/main/File%20Sharing%20and%20Troubleshooting/Image/Access-a-shared-folder.png?raw=true)
 
 ---
 
