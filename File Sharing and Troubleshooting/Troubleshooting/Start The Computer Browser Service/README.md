@@ -192,40 +192,7 @@ When troubleshooting network discovery:
 
 # 📷 Diagram
 
-Save the diagram as:
-
-```text
-images/computer-browser-service.png
-```
-
-Recommended diagram:
-
-```text
-Windows + R
-      │
-      ▼
-services.msc
-      │
-      ▼
-Services Console
-      │
-      ▼
-Computer Browser
-      │
-      ▼
-Start Service
-      │
-      ▼
-Status = Running
-      │
-      ▼
-Legacy Network Discovery
-```
-
-Suggested sources:
-
-- https://learn.microsoft.com/windows/
-- https://support.microsoft.com/
+![start-the-computer-browser-service](https://github.com/varun-kumar-sec/networking-notes/blob/main/File%20Sharing%20and%20Troubleshooting/Image/start-the-computer-browser-service.png?raw=true)
 
 ---
 
