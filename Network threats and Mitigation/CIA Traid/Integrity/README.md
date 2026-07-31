@@ -198,8 +198,8 @@ Maintaining integrity is critical for financial records, databases, software, co
 
 # 📚 References
 
-NIST Cybersecurity Framework
-NIST Special Publication 800-57 – Recommendation for Key Management
-Microsoft Learn – Security Documentation
-Cisco Networking Academy (NetAcad)
-CompTIA Security+
+- NIST Cybersecurity Framework
+- NIST Special Publication 800-57 – Recommendation for Key Management
+- Microsoft Learn – Security Documentation
+- Cisco Networking Academy (NetAcad)
+- CompTIA Security+
