@@ -142,6 +142,7 @@ Bot 5 ──┘
              │
              ▼
         Service Disruption
+        
 Example 3: Unauthorized Access
 
 An attacker obtains valid credentials and uses them to access a protected system.
