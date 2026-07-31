@@ -1,13 +1,4 @@
 # Social Engineering
-
-> **Module:** Network Threats and Mitigation  
-> **Section:** Common Network Threats – Social Engineering  
-> **Difficulty:** Beginner  
-> **Prerequisites:** Network Security, Phishing, Threat, Attack, Risk  
-> **Estimated Reading Time:** 5–7 Minutes
-
----
-
 # 📖 Overview
 
 **Social engineering** is a cybersecurity technique in which attackers manipulate people into revealing sensitive information, granting access, transferring money, or performing actions that weaken security.
