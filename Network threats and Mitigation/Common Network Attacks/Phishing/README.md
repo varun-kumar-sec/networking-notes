@@ -1,13 +1,4 @@
 # Phishing
-
-> **Module:** Network Threats and Mitigation  
-> **Section:** Common Network Threats – Phishing  
-> **Difficulty:** Beginner  
-> **Prerequisites:** Network Security, Malware, Threat, Attack, Risk  
-> **Estimated Reading Time:** 5–7 Minutes
-
----
-
 # 📖 Overview
 
 **Phishing** is a social engineering attack in which an attacker impersonates a trusted person, organization, or service to trick users into revealing sensitive information, opening malicious content, transferring money, or performing another unsafe action.
