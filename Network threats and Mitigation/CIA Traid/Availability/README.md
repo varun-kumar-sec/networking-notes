@@ -195,8 +195,8 @@ Availability is especially important for critical services such as banking, heal
 
 # 📚 References
 
-NIST Cybersecurity Framework
-NIST Special Publication 800-34 – Contingency Planning Guide
-Microsoft Learn – Security Documentation
-Cisco Networking Academy (NetAcad)
-CompTIA Security+
+- NIST Cybersecurity Framework
+- NIST Special Publication 800-34 – Contingency Planning Guide
+- Microsoft Learn – Security Documentation
+- Cisco Networking Academy (NetAcad)
+- CompTIA Security+
