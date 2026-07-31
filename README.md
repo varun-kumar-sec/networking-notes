@@ -1,150 +1,122 @@
 # 🌐 Networking Notes for Cybersecurity
+# 📖 Overview
 
-A structured collection of networking concepts, protocols, packet analysis, Linux networking, and network enumeration techniques designed from a cybersecurity and penetration testing perspective.
+**Networking Notes** is a structured collection of networking concepts and practical IT skills, progressing from basic networking to configuration, troubleshooting, file sharing, and network security.
 
 ---
 
-## 📖 About
+# 🗺️ Learning Path
 
-This repository contains my comprehensive networking notes, practical examples, diagrams, packet analysis, and hands-on learning created while studying networking for cybersecurity and penetration testing.
-
-The goal of this repository is to build a strong networking foundation required for:
-
-- 🌐 Web Application Security
-- 🔐 Penetration Testing
-- 🛡️ Network Security
-- 📡 Packet Analysis
-- 🖥️ Linux Networking
-- 📂 Active Directory
-- ☁️ Cloud Security
-
-Every topic is documented with practical explanations, security perspectives, and interview-focused notes.
-
+```text
+What is Network
+      ↓
+LAN Basics
+      ↓
+Networking Devices
+      ↓
+Working with Networking Devices
+      ↓
+Network Topology
+      ↓
+Transmission Media
+      ↓
+Structured Cabling
+      ↓
+Wireless Networking
+      ↓
+IP Addressing
+      ↓
+Network Protocols
+      ↓
+OSI Model
+      ↓
+TCP/IP Model
+      ↓
+Remote Access
+      ↓
+Network Troubleshooting
+      ↓
+File Sharing & Troubleshooting
+      ↓
+Network Threats & Mitigation
+```
 ---
 
 # 📚 Topics Covered
 
-| Topic | Status |
-|--------|:------:|
-| Networking Fundamentals | ⏳ |
-| OSI Model | ⏳ |
-| TCP/IP Model | ⏳ |
-| Encapsulation & Decapsulation | ⏳ |
-| MAC Address & Ethernet | ⏳ |
-| ARP | ⏳ |
-| IP Addressing | ⏳ |
-| Subnetting | ⏳ |
-| ICMP | ⏳ |
-| TCP | ⏳ |
-| UDP | ⏳ |
-| DNS | ⏳ |
-| DHCP | ⏳ |
-| Routing | ⏳ |
-| NAT | ⏳ |
-| VLAN | ⏳ |
-| HTTP & HTTPS | ⏳ |
-| Packet Analysis (Wireshark) | ⏳ |
-| Linux Networking | ⏳ |
-| Network Enumeration | ⏳ |
-| Common Network Attacks | ⏳ |
+What is Network
+LAN Basics
+Networking Devices
+Working with Networking Devices
+Network Topology
+Transmission Media
+Structured Cabling
+Wireless Networking
+IP Addressing
+Network Protocols
+OSI Model
+TCP/IP Model
+Remote Access
+Network Troubleshooting
+File Sharing and Troubleshooting
+Network Threats and Mitigation
 
 ---
 
-# 🎯 Repository Structure
+# 🎯 Learning Objectives
 
-```text
-networking-notes/
-│
-├── 01-networking-fundamentals/
-├── 02-osi-model/
-├── 03-tcp-ip-model/
-├── 04-ip-addressing/
-├── 05-subnetting/
-├── 06-network-protocols/
-├── 07-network-devices/
-├── 08-packet-analysis/
-├── 09-linux-networking/
-├── 10-network-enumeration/
-├── 11-active-directory-networking/
-├── images/
-└── README.md
-```
+After completing these notes, you will be able to:
+
+Understand networking fundamentals and LANs.
+Identify and work with networking devices.
+Understand topologies, cabling, and transmission media.
+Configure basic wired and wireless networks.
+Understand IP addressing and protocols.
+Explain the OSI and TCP/IP models.
+Perform basic remote access and troubleshooting.
+Configure and troubleshoot file sharing.
+Identify network threats and apply basic security controls.
 
 ---
 
-# 📝 Documentation Style
+# 🛠️ Skills You'll Gain
 
-Each topic includes:
+Networking fundamentals
+Device configuration
+IP addressing
+Protocol identification
+Wired and wireless networking
+Network troubleshooting
+Remote access
+File sharing and permissions
+Network security awareness
+📌 Key Takeaways
+Understand
+   ↓
+Configure
+   ↓
+Connect
+   ↓
+Troubleshoot
+   ↓
+Share
+   ↓
+Secure
 
-- 📖 Concept Explanation
-- 🖼️ Diagrams
-- ⚙️ Working Process
-- 📡 Packet Flow
-- 💻 Practical Examples
-- 🦈 Wireshark Analysis (where applicable)
-- 🔐 Security Perspective
-- ⚔️ Related Attacks
-- 🛡️ Defensive Measures
-- 💼 Interview Questions
-- 📌 Key Takeaways
-- 📚 References
-
----
-
-# 🛠️ Tools Covered
-
-- Wireshark
-- tcpdump
-- Nmap
-- Netcat
-- Ping
-- Traceroute
-- Dig
-- Nslookup
-- ip
-- ifconfig
-- arp
-- ss
-- netstat
+These notes provide a complete foundation in networking, administration, troubleshooting, file sharing, and network security.
 
 ---
 
-# 🎯 Learning Objective
+# 📚 References
 
-The primary objective of this repository is to build a strong networking foundation for offensive security by understanding how modern computer networks operate, how protocols communicate, how packets travel across networks, and how attackers exploit networking concepts during security assessments.
-
----
-
-# 🚀 Current Progress
-
-- [ ] Networking Fundamentals
-- [ ] OSI Model
-- [ ] TCP/IP Model
-- [ ] Ethernet
-- [ ] ARP
-- [ ] IP Addressing
-- [ ] Subnetting
-- [ ] TCP
-- [ ] UDP
-- [ ] ICMP
-- [ ] DNS
-- [ ] DHCP
-- [ ] Routing
-- [ ] NAT
-- [ ] VLAN
-- [ ] Packet Analysis
-- [ ] Linux Networking
-- [ ] Network Enumeration
-- [ ] Network Security
-- [ ] Active Directory Networking
-
----
-
-# ⭐ Repository Status
-
-This repository is actively maintained and updated as I continue learning networking concepts and applying them from a cybersecurity and penetration testing perspective.
-
----
+Microsoft Learn
+Cisco Networking Academy (NetAcad)
+CompTIA Network+
+CompTIA Security+
+NIST Cybersecurity Framework
+CISA Cybersecurity Guidance
+William Stallings – Data and Computer Communications
+Behrouz A. Forouzan – Data Communications and Networking
 
 ## 👨‍💻 Author
 
