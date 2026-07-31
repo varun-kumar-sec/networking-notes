@@ -153,8 +153,8 @@ Confidentiality is essential for protecting personal, financial, medical, busine
 
 # 📚 References
 
-NIST Cybersecurity Framework
-NIST Special Publication 800-53 – Security and Privacy Controls
-Microsoft Learn – Security Documentation
-Cisco Networking Academy (NetAcad)
-CompTIA Security+
+- NIST Cybersecurity Framework
+- NIST Special Publication 800-53 – Security and Privacy Controls
+- Microsoft Learn – Security Documentation
+- Cisco Networking Academy (NetAcad)
+- CompTIA Security+
