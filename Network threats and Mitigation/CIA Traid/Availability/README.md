@@ -1,13 +1,4 @@
 # Availability
-
-> **Module:** Network Threats and Mitigation  
-> **Section:** CIA Triad – Availability  
-> **Difficulty:** Beginner  
-> **Prerequisites:** Network Security, Confidentiality, Integrity  
-> **Estimated Reading Time:** 5–7 Minutes
-
----
-
 # 📖 Overview
 
 **Availability** is the security principle of ensuring that systems, networks, applications, and data are **accessible and usable by authorized users when needed**.
