@@ -243,11 +243,12 @@ No single security control can protect against every threat; effective security 
 ---
 
 # 📚 References
-NIST Cybersecurity Framework
-NIST Special Publication 800-53 – Security and Privacy Controls
-Microsoft Learn – Security Documentation
-Cisco Networking Academy (NetAcad)
-CompTIA Network+
-CompTIA Security+
-Andrew S. Tanenbaum – Computer Networks
-Behrouz A. Forouzan – Data Communications and Networking
+
+- NIST Cybersecurity Framework
+- NIST Special Publication 800-53 – Security and Privacy Controls
+- Microsoft Learn – Security Documentation
+- Cisco Networking Academy (NetAcad)
+- CompTIA Network+
+- CompTIA Security+
+- Andrew S. Tanenbaum – Computer Networks
+- Behrouz A. Forouzan – Data Communications and Networking
